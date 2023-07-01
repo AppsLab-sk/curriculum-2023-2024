@@ -21,12 +21,18 @@ Učebný plan pokrýva základné a pokročilé koncepty programovania v jazyku 
 
 ### Úvod do programovania
 
-- [Čo je programovanie?](lekcie/Co%20je%20programovanie.md)
+- [Čo je programovanie? (What is programming?)](lekcie/Co%20je%20programovanie.md)
 
 ### C# Základy (C# Fundamentals)
 
-- [Čo je .NET a C#?](lekcie/Co%20je%20.NET%20a%20CSharp.md)
-- Čo je IDE? Visual Studio, Visual Studio Code (What is IDE?)
+- [Čo je .NET a C#? (What is .NET and C#?)](lekcie/Co%20je%20.NET%20a%20CSharp.md)
+- Teória: Čo je IDE? 
+  - Kontrola prostredia, verzie Visual Studio 2022
+  - Prehľad Visual Studio 2022
+- Čo je Git?
+  - Dôležitosť a úloha Source Control pri vývoji softvéru
+  - Možnosti a funkcie GitHubu
+- Čo je GitHub?
 - Console.WriteLine, Komenty (Console.WriteLine, Comments)
 - Premenné, dátové typy a konštanty (Variables, Data Types, Constants)
 - Implicitné a explicitné pretypovanie (Implicit and Explicit Casting)
@@ -94,19 +100,16 @@ Učebný plan pokrýva základné a pokročilé koncepty programovania v jazyku 
 
 ### C# Súvisiace koncepty (Related Concepts) (BONUS)
 
-- Čo je JSON? (What is JSON?)
-- Práca s JSON (Working with JSON)
-- Čo je XML? (What is XML?)
-- Práca s XML (Working with XML)
-- Databázy a SQL (Databases and SQL)
-- Práca s databázami (Working with databases)
+- JSON
+- XML
+- Databázy a SQL
 - .NET knižnice a NuGet balíčky (.NET libraries and NuGet packages)
 - Debugovanie a testovanie (Debugging and testing)
 
 ### Softvérové inžinierstvo (Software Engineering) (BONUS)
 
-- Základy softvérového inžinierstva (Fundamentals of software engineering)
-- Zásady SOLID (Principles of SOLID)
+- Základy softvérového inžinierstva
+- Zásady SOLID (SOLID Principles)
 - Testovanie a jednotkové testy (Testing and unit tests)
 - Dokumentácia a komentovanie kódu (Code documentation and commenting)
 - Kontinuálna integrácia (CI) (Continuous Integration (CI))
