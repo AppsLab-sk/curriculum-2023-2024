@@ -1,10 +1,17 @@
-# Programovací jazyk C#
+# Programovací jazyk `C#`
 
 - 1. polrok (16 týždnov, 80 školských hodín)
 
 ## Zhrnutie
 
-Učebný plan pokrýva základné a pokročilé koncepty programovania v jazyku C#. Začína sa úvodom do programovania a konkrétneho významu .NET a C#. Študenti sa naučia o rôznych IDE, základných prvkoch jazyka, ako sú premenné, konštanty, operátory, podmienky a cykly, a tiež o práci s poliami a triedami. Pokračuje bonusovými pokročilými témami, vrátane delegátov, udalostí, lambda výrazov, LINQ a prácou s viacvláknovými aplikáciami. Súčasťou sú aj súvisiace koncepty, ako práca s JSON, XML, databázami a SQL, debugovanie a testovanie, a tiež základy softvérového inžinierstva. Na konci je vývoj konzolovej aplikácie, ktorý zahŕňa návrh, plánovanie a implementáciu projektu, jeho prezentáciu a záverečné hodnotenie.
+- Tento súhrn učebných osnov pokrýva rozsiahle študijné materiály zamerané na výuku programovania v jazyku C#.
+- Kurz začína úvodom do OpenLabu, kde študenti spoznajú Lab Mastra, princípy OpenLabu, hodnotenie a kódex študenta, ako aj praktické aspekty a majú príležitosť položiť otázky.
+- Ďalšia časť sa venuje základom programovania, predstavuje koncepty ako .NET a C#, IDE, Git a GitHub, a následne prechádza k základným programovacím konceptom v C#, vrátane premenných, operátorov, cyklov, podmienok a viac.
+- Nasledujúci blok lekcií sa zaoberá pokročilejšími témami v C# vrátane metód, tried a objektovo orientovaného programovania (OOP). Študenti sa naučia o parametroch, návratových hodnotách, preťažení metód, triedach, dedičnosti, polymorfizme, abstrakcii a mnohých ďalších témach.
+- Ak to Lab Master zhodnotí ako vhodné, môže pokračovať bonusovými časťami učebných osnov, ktoré sa týkajú pokročilých tém v C# vrátane delegátov, udalostí, generických typov, atribútov, multithreadingu a ďalších súvisiacich konceptov ako sú JSON, XML, databázy a SQL.
+- Študenti tiež dostanú možnosť naučiť sa o základoch softvérového inžinierstva, princípoch SOLID, testovaní, dokumentácii kódu a kontinuálnej integrácii.
+- Kurz končí projektovou časťou, kde študenti vytvoria svoju vlastnú konzolovú aplikáciu, od návrhu a plánovania až po implementáciu a prezentáciu.
+- Na záver kurzu prebehne záverečné hodnotenie a retrospektíva.
 
 ## Lekcie
 
@@ -21,18 +28,22 @@ Učebný plan pokrýva základné a pokročilé koncepty programovania v jazyku 
 
 ### Úvod do programovania
 
-- [Čo je programovanie? (What is programming?)](lekcie/Co%20je%20programovanie.md)
+- [Čo je programovanie?](lekcie/Co%20je%20programovanie.md)
 
 ### C# Základy (C# Fundamentals)
 
-- [Čo je .NET a C#? (What is .NET and C#?)](lekcie/Co%20je%20.NET%20a%20CSharp.md)
-- Teória: Čo je IDE? 
-  - Kontrola prostredia, verzie Visual Studio 2022
-  - Prehľad Visual Studio 2022
+- [Čo je .NET a C#?](lekcie/Co%20je%20.NET%20a%20CSharp.md)
+- Čo je IDE?
+  - Teória: Prehľad Visual Studio 2022
+  - Prax: Kontrola prostredia, verzie Visual Studio 2022
 - Čo je Git?
-  - Dôležitosť a úloha Source Control pri vývoji softvéru
-  - Možnosti a funkcie GitHubu
+  - Teória: Dôležitosť a úloha Source Control pri vývoji softvéru
 - Čo je GitHub?
+  - Teória: Možnosti a funkcie GitHubu
+  - Prax: Vytvorenie účtu
+  - Prax: Predstavenie repositára s cvičeniami
+  - Prax: Predstavenie spôsobu práce s repozitárom - fork, commit, pull-request
+  - Prax: Predstavenie automatického testovania riešení pre cvičenia pomocou GitHub Actions
 - Console.WriteLine, Komenty (Console.WriteLine, Comments)
 - Premenné, dátové typy a konštanty (Variables, Data Types, Constants)
 - Implicitné a explicitné pretypovanie (Implicit and Explicit Casting)
@@ -58,7 +69,7 @@ Učebný plan pokrýva základné a pokročilé koncepty programovania v jazyku 
 
 ### C# Triedy (C# Classes)
 
-- Čo je OOP? (What is OOP?)
+- Čo je OOP?
 - Triedy a objekty (Classes and Objects)
 - Viac tried a objektov (Multiple Classes and Objects)
 - Členovia triedy (Class Members)
