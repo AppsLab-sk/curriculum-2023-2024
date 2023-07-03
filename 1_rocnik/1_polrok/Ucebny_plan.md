@@ -29,6 +29,7 @@
 ### Úvod do programovania
 
 - [Čo je programovanie?](lekcie/Co%20je%20programovanie.md)
+- [Code Game](https://www.w3schools.com/codegame/index.html)
 
 ### C# Základy (C# Fundamentals)
 
