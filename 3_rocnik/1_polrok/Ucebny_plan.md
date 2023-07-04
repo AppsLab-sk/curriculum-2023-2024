@@ -97,3 +97,59 @@ Učebný plán je navrhnutý pre študentov strednej školy, ktorý zahŕňa vý
 - **Hint**: Use unit testing and integration testing for the API. Prepare the application for deployment (environment variables, deployment scripts, etc.)
 - **Lessons**: Angular - Pipes, ASP.NET Core - Preparation for deployment
 - **Acceptance criteria**: The application is complete with data formatting, the database is optimized, and it's ready for deployment.
+
+### Week 11: Dependency Injection and Logging
+
+- **Front-end problem**: Understand and use dependency injection in Angular.
+  - **Hint**: Inject services into components using Angular's dependency injection system.
+- **Back-end problem**: Implement logging in your ASP.NET Core application.
+  - **Hint**: Use built-in or third-party logging providers to log important information about your application's behavior.
+- **Lessons**: Angular - Dependency Injection, ASP.NET Core - Logging
+- **Acceptance criteria**: Dependency injection is used in the Angular application. Logging is set up in the ASP.NET Core application.
+
+### Week 12: Reactive Forms and Pagination (BONUS)
+
+- **Front-end problem**: Improve your forms by switching from template-driven to reactive forms.
+  - **Hint**: Use Angular's `ReactiveFormsModule` and related classes like `FormGroup` and `FormControl`.
+- **Back-end problem**: Implement server-side pagination for the heroes list.
+  - **Hint**: Use query parameters to get a specific page of data from your API endpoints.
+- **Lessons**: Angular - Reactive Forms, ASP.NET Core - Pagination
+- **Acceptance criteria**: The application uses reactive forms. The API supports pagination.
+
+### Week 13: Routing Guards and Exception Handling (BONUS)
+
+- **Front-end problem**: Implement routing guards to protect certain routes.
+  - **Hint**: Use Angular's `CanActivate` or `CanDeactivate` guards.
+- **Back-end problem**: Implement global exception handling in your ASP.NET Core application.
+  - **Hint**: Use middleware to handle exceptions globally and return appropriate HTTP responses.
+- **Lessons**: Angular - Routing Guards, ASP.NET Core - Exception Handling
+- **Acceptance criteria**: Certain routes in the Angular application are protected by routing guards. Exceptions are handled globally in the ASP.NET Core application.
+
+### Week 14: Testing and Optimizing API Calls (BONUS)
+
+- **Front-end problem**: Implement unit testing for your Angular components and services.
+  - **Hint**: Use Angular's testing framework and Jasmine to create and run tests for your components and services.
+- **Back-end problem**: Optimize your API calls.
+  - **Hint**: Use features like caching, compression, or batching to improve your API's performance.
+- **Lessons**: Angular - Testing, ASP.NET Core - Optimizing API Calls
+- **Acceptance criteria**: The application has unit tests for its components and services. API calls are optimized.
+
+### Week 15: Async Pipe and Asynchronous Processing (BONUS)
+
+- **Front-end problem**: Use async pipe to subscribe to Observables from the template.
+  - **Hint**: Use Angular's `async` pipe to subscribe to Observables and automatically update the view.
+- **Back-end problem**: Implement asynchronous processing in your ASP.NET Core application.
+  - **Hint**: Use async/await keywords and asynchronous versions of EF Core methods.
+- **Lessons**: Angular - Async Pipe, ASP.NET Core - Asynchronous Processing
+- **Acceptance criteria**: Async pipe is used in the Angular application. The ASP.NET Core application supports asynchronous processing.
+
+### Week 16: Recap, Evaluation, Retrospective, and Proposals for Future Projects
+
+- **Front-end review**: Recap the main topics covered throughout the course and evaluate the Angular projects completed by students.
+  - **Hint**: Review Angular topics including components, directives, routing, services, forms, HttpClient, and more. Evaluate students' projects and provide constructive feedback.
+- **Back-end review**: Recap the main topics covered in the ASP.NET Core curriculum and evaluate the projects completed by students.
+  - **Hint**: Review ASP.NET Core topics including models, DbContext, migrations, API endpoints, authentication, exception handling, logging, and more. Evaluate students' projects and provide constructive feedback.
+- **Retrospective and proposals**: Conduct a course retrospective to discuss what went well and what could be improved. Discuss potential future projects that students can work on to continue their learning.
+  - **Hint**: Facilitate a discussion on the course content, teaching methods, and student projects. Discuss new project ideas that incorporate advanced topics or integrate with other technologies.
+- **Lessons**: Review of Angular and ASP.NET Core, Evaluation of student work, Course retrospective, Discussion of future projects
+- **Acceptance criteria**: Students demonstrate a thorough understanding of the course content. Feedback is collected and potential future projects are identified.
