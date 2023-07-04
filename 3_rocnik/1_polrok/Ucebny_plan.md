@@ -4,7 +4,17 @@
 
 ## Zhrnutie
 
-Učebný plán je navrhnutý pre študentov strednej školy, ktorý zahŕňa výučbu Angularu pre front-end a ASP.NET Core pre back-end. Študenti si môžu zvoliť, či sa chcú špecializovať na front-end alebo back-end, ale pracujú spoločne v pároch (front-end a back-end) na tímovom projekte, kde aplikujú všetky naučené lekcie počas školského roka. Školský rok je rozdelený na 32 týždňov, pričom každý týždeň obsahuje 5 školských hodín. Učebný plán zahŕňa tématické oblasti ako základy Angularu a ASP.NET Core, prácu s komponentami, spracovanie dát, smerovanie, moduly, testovanie, pokročilé témy a tímový projekt. Celkový cieľ je poskytnúť študentom pevné základy v týchto technológiách a umožniť im ich praktickú aplikáciu prostredníctvom spolupráce na tímovom projekte.
+Tento kurz pokrýva vývoj webových aplikácií s technológiami Angular a ASP.NET Core.
+
+Začína sa základmi týchto technológií a nastavením vývojového prostredia. Študenti sa naučia vytvárať komponenty a databázové štruktúry. Nasledujú implementácie, modelovanie s EF Core, a rozšírenie API pre správu údajov.
+
+Kurz následne pokrýva vylepšenie user experience a efektivity, zavedenie navigácie, zdieľaných služieb a detailného zobrazenia pre úpravu dát.
+
+Potom sú preberané pokročilejšie operácie, ako filtrovanie a triedenie, interakcia používateľa, formátovanie údajov a autentizácia/autorizácia v API, pričom všetko končí prípravou na nasadenie.
+
+V ďalšej fáze sa študenti naučia o vkladaní závislostí, záznamoch, reaktívnych formulároch a stránkovaní. Sú zahrnuté aj komplexnejšie témy, ako sú logovanie, ošetrovanie výnimiek, unit testovanie a asynchrónne spracovanie.
+
+Kurz končí prehľadom učiva, hodnotením práce, retrospektívou a diskusiou o budúcich projektoch. Každá časť má akceptačné kritéria pre overenie porozumenia študentov.
 
 ## Lekcie
 
