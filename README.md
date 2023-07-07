@@ -8,22 +8,9 @@ Učebné materiály pre Open Lab Mastrov rozdelené podľa tried (ročníkov).
 - Tieto učebné materiály teda rátaju so 160 školskými hodinami.
 - Učebné hodiny rátaju s tým, že školská hodina má dĺžku 45 minút.
 
-## 1. ročník
-
-- [1. polrok](/1_rocnik/1_polrok/Ucebny_plan.md)
-- [2. polrok](/1_rocnik/2_polrok/Ucebny_plan.md)
-
-## 2. ročník
-
-- [1. polrok](/2_rocnik/1_polrok/Ucebny_plan.md)
-- [2. polrok](/2_rocnik/2_polrok/Ucebny_plan.md)
-
-## 3. ročník
-
-- [1. polrok](/3_rocnik/1_polrok/Ucebny_plan.md)
-- [2. polrok](/3_rocnik/2_polrok/Ucebny_plan.md)
-
-## 4. ročník
-
-- [1. polrok](/4_rocnik/1_polrok/Ucebny_plan.md)
-- [2. polrok](/4_rocnik/2_polrok/Ucebny_plan.md)
+| Ročník | 1. polrok | 2. polrok |
+| --- | --- | --- |
+| 1. ročník | [Link](/1_rocnik/1_polrok/Ucebny_plan.md) | [Link](/1_rocnik/2_polrok/Ucebny_plan.md) |
+| 2. ročník | [Link](/2_rocnik/1_polrok/Ucebny_plan.md) | [Link](/2_rocnik/2_polrok/Ucebny_plan.md) |
+| 3. ročník | [Link](/3_rocnik/1_polrok/Ucebny_plan.md) | [Link](/3_rocnik/2_polrok/Ucebny_plan.md) |
+| 4. ročník | [Link](/4_rocnik/1_polrok/Ucebny_plan.md) | [Link](/4_rocnik/2_polrok/Ucebny_plan.md) |
