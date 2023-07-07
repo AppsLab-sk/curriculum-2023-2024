@@ -17,14 +17,13 @@
 
 ### 1. týždeň: Úvod do OpenLabu
 
-- Prezentácia - Úvod do OpenLabu
+- Prezentácia - [Úvod do OpenLabu](/Prezentacie/1.%20Intro%20do%20OpenLabu.pptx)
   - Predstavenie Lab Mastra (Lab Mastrov)
   - Princípy OpenLabu
   - Hodnotenie
   - Kódex študenta
   - Praktické veci
   - Otázky a odpovede
-  - [ ] Presunúť prezentáciu do GitHubu
 
 ### 2. týždeň: Úvod do programovania
 
