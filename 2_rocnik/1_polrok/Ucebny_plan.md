@@ -26,162 +26,53 @@ V každom týždni sa študenti zoznámia s konkrétnymi témami a naučia sa ic
   - Praktické veci
   - Otázky a odpovede
 
-### 1. týždeň: Introduction to Web Development and HTML Basics
+### 1. týždeň: Základy vývoja webu a HTML
 
-HTML
+- **Cieľ**: Študenti sa naučia základom vývoja webu a pochopia základné koncepty a prvky HTML.
+- **Lekcie**: Úvod do vývoja webu, Úvod do HTML, Webové prehliadače, Štruktúra HTML stránky, História HTML, HTML Editory, HTML Základy, HTML Elementy, HTML atribúty, HTML Názov stránky.
+- **Cvičenia**: Študenti by mali aplikovať nadobudnuté vedomosti tým, že vytvoria jednoduchú HTML stránku v editore Visual Studio Code, kde použijú rôzne HTML prvky a atribúty. Ďalej by mali skúmať a porovnávať, ako sa ich stránka zobrazuje v rôznych webových prehliadačoch.
 
-- Úvod do vývoja webu
-  - Čo je vývoj webu?
-- Úvod do HTML
-  - Čo je HTML?
-  - Čo je HTML element?
-  - Webové prehliadače (Web Browsers)
-  - Štruktúra HTML stránky (HTML Page Structure)
-  - História HTML
-- HTML Editory (HTML Editors)
-  - Visual Studio Code
-- HTML Základy (HTML Basics)
-- HTML Elementy (HTML Elements)
-- HTML Attributes
-- HTML Page Title
+### 2. týždeň: Popisovanie štýlov HTML a úvod do CSS
 
-### 2. týždeň: HTML Styles and Introduction to CSS
+- **Cieľ**: Študenti sa naučia, ako pridať a manipulovať štýly v HTML pomocou CSS, rozumejú syntaxi a selektorom CSS a tiež sa zoznámia s pridaním CSS a komentárami v CSS.
+- **Lekcie**: HTML Štýly - CSS, Úvod do CSS, Syntax CSS, Selektory CSS, Ako pridať CSS, Komentáre v CSS.
+- **Cvičenia**: Študenti by mali prakticky aplikovať vedomosti nadobudnuté z lekcií, vytvárať a upravovať štýly v HTML pomocou CSS, experimentovať s rôznymi selektormi CSS, pridať CSS do svojich webových stránok a používať komentáre v CSS pre lepšiu čitateľnosť a organizáciu kódu.
 
-HTML
+### 3. týždeň: Vytváranie a úprava textu v HTML
 
-- HTML Styles - CSS
+- **Cieľ**: Študenti sa naučia základy textovej manipulácie v HTML. Budú rozumieť a vedieť používať nadpisy, odseky, formátovanie textu, štýly a komentáre v HTML.
+- **Lekcie**: HTML Nadpisy, HTML Odseky, HTML Formátovanie textu, HTML Štýly, HTML Komentáre.
+- **Cvičenia**: Študenti budú vykonávať praktické cvičenia na vytváranie a úpravu textu v HTML. Budú sa zaoberať vytváraním rôznych typov nadpisov a odsekov, aplikáciou rôznych štýlov a formátov textu a písaním a pochopením HTML komentárov. Cvičenia budú tiež zahŕňať interaktívne úlohy na zlepšenie pochopenia a praktických zručností.
 
-CSS
+### 4. týždeň: Farby v HTML a CSS
 
-- CSS Introduction
-- CSS Syntax
-- CSS Selectors
-- How To Add CSS
-- CSS Comments
+- **Cieľ**: Študenti sa naučia ako používať a upravovať farby v HTML a CSS. Naučia sa o rôznych formátoch farieb, vrátane RGB, RGBA, HEX, HSL a HSLA a ako ich používať v konkrétnych kontextoch.
+- **Lekcie**: HTML Farby, HTML RGB a RGBA Farby, HTML HEX Farby, HTML HSL a HSLA Farby, CSS Farby, CSS RGB Farby, CSS HEX Farby, CSS HSL Farby
+- **Cvičenia**: Študenti by mali aplikovať svoje vedomosti tým, že vytvoria vlastné webové stránky s použitím rôznych farebných formátov. Mali by tiež experimentovať s menením farebných hodnôt v existujúcich HTML a CSS súboroch, aby videli, ako sa menia vizuálne prvky. 
 
-### 3. týždeň: HTML Text
+### 5. týždeň: Tvorba HTML odkazov, obrázkov a základy CSS štýlovania
 
-HTML
+- **Cieľ**: Študenti sa naučia ako vytvárať odkazy v HTML, prácu s obrázkami a základy štýlovania pomocou CSS.
+- **Lekcie**: HTML odkazy, HTML odkazy - Rôzne farby, HTML odkazy - Vytvorenie záložiek, HTML obrázky, HTML mapy obrázkov, HTML pozadie obrázkov, HTML prvok `<picture>`, HTML Favicon, CSS pozadia, CSS farba pozadia, CSS obrázok pozadia, Opakovanie CSS obrázka pozadia, CSS príloha pozadia, CSS stručná notácia pozadia, CSS okraje, CSS šírka okrajov, CSS farba okrajov, CSS strany okrajov, CSS stručná notácia vlastnosti okrajov, CSS text, CSS farba textu, CSS zarovnanie textu, CSS dekorácia textu, CSS transformácia textu, CSS rozostupy textu, CSS tieň textu.
+- **Cvičenia**: Študenti by mali praktizovať vytváranie rôznych typov HTML odkazov, prácu s obrázkami v HTML vrátane použitia map obrázkov a prvku `<picture>`. Navyše, budú sa naučiť ako upravovať vzhľad webových stránok pomocou rôznych CSS vlastností, vrátane štýlovania pozadia, okrajov a textu. Študenti by mali vytvárať vlastné CSS štýly a aplikovať ich na HTML stránky pre praktické využitie naučených vedomostí.
 
-- HTML Headings
-- HTML Paragraphs
-- HTML Text Formatting
-- HTML Styles
-- HTML Comments
+### 6. týždeň: Práca s HTML tabuľkami, zoznamami a CSS štýlovaním tabuliek
 
-### 4. týždeň: HTML and CSS Colors
+- **Cieľ**: Študenti sa naučia vytvárať a štylizovať HTML tabuľky a zoznamy pomocou CSS. Získajú vedomosti o rôznych aspektoch práce s HTML tabuľkami a zoznamami, ako sú hranice, veľkosti, hlavičky, padding & spacing, colspan & rowspan, styling a colgroup. Takisto sa oboznámia s prvkami CSS tabuliek, vrátane hraníc, veľkosti, zarovnania, štýlu a responzivity.
+- **Lekcie**: HTML tabuľky, HTML hranice tabuliek, Veľkosti HTML tabuliek, Hlavičky HTML tabuliek, HTML Padding & Spacing tabuliek, HTML Colspan & Rowspan tabuliek, Štylizovanie HTML tabuliek, HTML Colgroup, HTML neusporiadané zoznamy, HTML usporiadané zoznamy, HTML iné zoznamy, CSS tabuľky, CSS hranice tabuliek, Veľkosť CSS tabuliek, Zarovnanie CSS tabuliek, Štýl CSS tabuliek, CSS responzívne tabuľky.
+- **Cvičenia**: Študenti by mali prakticky aplikovať získané vedomosti vytváraním a štylizovaním HTML tabuliek a zoznamov s použitím CSS. Mali by tiež skúmať rôzne možnosti pre jednotlivé aspekty práce s HTML tabuľkami a zoznamami. To zahŕňa tvorbu responzívnych tabuliek pomocou CSS, prácu s rôznymi veľkosťami a štýlmi tabuliek, experimentovanie s rôznymi typmi zoznamov a ich štýlovanie pomocou CSS.
 
-HTML
+### 7. týždeň: Práca s písmami v CSS a formulármi v HTML
 
-- HTML Colors
-  - HTML RGB and RGBA Colors
-  - HTML HEX Colors
-  - HTML HSL and HSLA Colors
+- **Cieľ**: Študenti sa naučia pracovať s písmami v CSS a tvoriť formuláre v HTML. Získať vedomosti o atribútoch, elementoch a typoch vstupov formulára v HTML, ako aj o práci s rodinami písiem, bezpečnými web písmami, záložnými písmami, štýlmi písiem, veľkosťami písiem a využívaním Google a Great Font Pairings v CSS.
+- **Lekcie**: HTML Formuláre, HTML Atribúty Formulára, HTML Elementy Formulára, HTML Typy Vstupov, HTML Atribúty Vstupov, HTML Vstupné form* Atribúty, CSS Písma, CSS Rodina Písiem, CSS Bezpečné Web Písma, CSS Záložné Písma, CSS Štýl Písma, CSS Veľkosť Písma, CSS Google Písma, CSS Great Font Pairings, CSS Vlastnosť Písma.
+- **Cvičenia**: Študenti budú v praxi aplikovať získané vedomosti tvorením jednoduchých HTML formulárov a upravovať ich vlastnosti pomocou rôznych atribútov. V CSS budú experimentovať s rôznymi rodinami písiem, veľkosťami, štýlmi a pármi písiem od Google a Great Font Pairings. Skúšať budú aj tvorbu záložných fontov pre prípad, ak hlavný font nebude k dispozícii. Každé cvičenie by malo obsahovať konkrétnu úlohu na vytvorenie a úpravu formulára, ako aj úlohu na prácu s písmom v CSS.
 
-CSS
+### 8. týždeň: Opis a manipulácia CSS rozložení a formulárov
 
-- CSS Colors
-  - CSS RGB Colors
-  - CSS HEX Colors
-  - CSS HSL Colors
-
-### 5. týždeň: HTML Links, Images, and Basic CSS Styling
-
-HTML
-
-- HTML Links
-  - HTML Links - Different Colors
-  - HTML Links - Create Bookmarks
-- HTML Images
-  - HTML Image Maps
-  - HTML Background Images
-  - HTML `<picture>` Element
-- HTML Favicon
-
-CSS
-
-- CSS Backgrounds
-  - CSS Background Color
-  - CSS Background Image
-  - CSS Background Image Repeat
-  - CSS Background Attachment
-  - CSS Background Shorthand
-- CSS Borders
-  - CSS Border Width
-  - CSS Border Color
-  - CSS Border Sides
-  - CSS Shorthand Border Property
-- CSS Text
-  - CSS Text Color
-  - CSS Text Alignment
-  - CSS Text Decoration
-  - CSS Text Transformation
-  - CSS Text Spacing
-  - CSS Text Shadow
-
-### 6. týždeň: HTML Tables, Lists, and CSS Table Styling
-
-HTML
-
-- HTML Tables
-  - HTML Table Borders
-  - HTML Table Sizes
-  - HTML Table Headers
-  - HTML Table Padding & Spacing
-  - HTML Table Colspan & Rowspan
-  - HTML Table Styling
-  - HTML Table Colgroup
-- HTML Lists
-  - HTML Unordered Lists
-  - HTML Ordered Lists
-  - HTML Other Lists
-
-CSS
-
-- CSS Tables
-  - CSS Table Borders
-  - CSS Table Size
-  - CSS Table Alignment
-  - CSS Table Style
-  - CSS Responsive Table
-
-### 7. týždeň: CSS Fonts and HTML Forms
-
-HTML
-
-- HTML Forms
-  - HTML Form Attributes
-  - HTML Form Elements
-  - HTML Input Types
-  - HTML Input Attributes
-  - HTML Input `form*` Attributes
-
-CSS
-
-- CSS Fonts
-  - CSS Font Family
-  - CSS Web Safe Fonts
-  - CSS Font Fallbacks
-  - CSS Font Style
-  - CSS Font Size
-  - CSS Google Fonts
-  - CSS Great Font Pairings
-  - CSS Font Property
-
-### 8. týždeň: CSS Layouts and Forms
-
-CSS
-
-- CSS Layout
-  - CSS `display` Property
-  - CSS `width` and `max-width`
-  - CSS `position` Property
-  - CSS `z-index` Property
-  - CSS Overflow
-  - CSS `float` and `clear`
-  - CSS `display: inline-block`
-  - CSS Horizontal & Vertical Align
-- CSS Forms
+- **Cieľ**: Študenti sa naučia ako popísať a manipulovať CSS rozloženia a formuláre. Získajú porozumenie o vlastnostiach ako display, width, max-width, position, z-index, float, clear a display: inline-block. Taktiež sa oboznámia s vertikálnym a horizontálnym zarovnaním v CSS a ako sa pracuje s pretečením obsahu (Overflow). Nakoniec, získajú skúsenosti s tvorbou a úpravou formulárov v CSS.
+- **Lekcie**: CSS rozloženie, Vlastnosť display v CSS, Vlastnosti width a max-width v CSS, Vlastnosť position v CSS, Vlastnosť z-index v CSS, Pretečenie obsahu v CSS, Vlastnosti float a clear v CSS, Vlastnosť display: inline-block v CSS, Horizontálne a vertikálne zarovnanie v CSS, CSS formuláre.
+- **Cvičenia**: Študenti by mali navrhnúť a implementovať rozličné CSS rozloženia a formuláre, použitím naučených vlastností. Mali by tiež vytvárať rozličné scenáre pre manipuláciu s pretečením obsahu a prispôsobovať zarovnanie elementov. Každá lekcia by mala byť doplnená o praktické cvičenia, kde študenti aplikujú naučené vedomosti a techniky.
 
 ### 9. týždeň: HTML Advanced
 
