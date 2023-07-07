@@ -15,7 +15,7 @@
 
 ## Lekcie
 
-### Úvod do OpenLabu
+### 1. týždeň: Úvod do OpenLabu
 
 - Prezentácia - Úvod do OpenLabu
   - Predstavenie Lab Mastra (Lab Mastrov)
@@ -26,12 +26,12 @@
   - Otázky a odpovede
   - [ ] Presunúť prezentáciu do GitHubu
 
-### Úvod do programovania
+### 2. týždeň: Úvod do programovania
 
 - [Čo je programovanie?](lekcie/Co%20je%20programovanie.md)
 - [Code Game](https://www.w3schools.com/codegame/index.html)
 
-### C# Základy (C# Fundamentals)
+### 3. týždeň: IDE, Git, GitHub
 
 - [Čo je .NET a C#?](lekcie/Co%20je%20.NET%20a%20CSharp.md)
 - Čo je IDE?
@@ -45,6 +45,9 @@
   - Prax: Predstavenie repositára s cvičeniami
   - Prax: Predstavenie spôsobu práce s repozitárom - fork, commit, pull-request
   - Prax: Predstavenie automatického testovania riešení pre cvičenia pomocou GitHub Actions
+
+### 4. týždeň: C# Základy (C# Fundamentals) I
+
 - Console.WriteLine, Komenty (Console.WriteLine, Comments)
 - Premenné, dátové typy a konštanty (Variables, Data Types, Constants)
 - Implicitné a explicitné pretypovanie (Implicit and Explicit Casting)
@@ -52,23 +55,29 @@
 - Operátory (Operators)
 - Math
 - Reťazce a špeciálne znaky (Strings and special characters)
+
+### 5. týždeň: C# Základy (C# Fundamentals) II
+
 - Boolean
 - Podmienky `if`, `else` (Conditions)
 - `switch`
+
+### 6. týždeň: Polia, Cykly (Arrays, Loops)
+
 - Polia (Arrays)
 - Cykly - `while`, `for`, `foreach` (Loops)
 - `break`, `continue`
 - Triedenie zoznamov (Sorting)
 - Viacrozmerné polia (Multidimensional Arrays)
 
-### C# Metódy (C# Methods)
+### 7. týždeň: C# Metódy (C# Methods)
 
 - Metódy (Methods)
 - Parametre a argumenty (Parameters and Arguments)
 - Návratové hodnoty (Return Values)
 - Preťaženie metód (Method Overloading)
 
-### C# Triedy (C# Classes)
+### 8. týždeň: C# Triedy (C# Classes)
 
 - Čo je OOP?
 - Triedy a objekty (Classes and Objects)
@@ -88,7 +97,7 @@
 
 > V tomto bode Lab Master zváži úroveň a progres študentov a rozhodne, či bude pokračovať s bonusovými časťami učebných osnov, alebo prejde rovno na projektovú časť.
 
-### Pokročilý C# (Advanced C#) (BONUS)
+### 9. týždeň: Pokročilý C# (Advanced C#) (BONUS)
 
 - Delegáty (Delegates)
 - Udalosti (Events)
@@ -104,13 +113,13 @@
 - Dynamické typy (Dynamic Types)
 - Atribúty (Attributes)
 
-### C# Multithreading (BONUS)
+### 10. týždeň: C# Multithreading (BONUS)
 
 - Úvod do multithreadingu (Introduction to Multithreading)
 - Task trieda (Task class)
 - Async a Await
 
-### C# Súvisiace koncepty (Related Concepts) (BONUS)
+### 11. týždeň: C# Súvisiace koncepty (Related Concepts) (BONUS)
 
 - JSON
 - XML
@@ -118,7 +127,7 @@
 - .NET knižnice a NuGet balíčky (.NET libraries and NuGet packages)
 - Debugovanie a testovanie (Debugging and testing)
 
-### Softvérové inžinierstvo (Software Engineering) (BONUS)
+### 12. týždeň: Softvérové inžinierstvo (Software Engineering) (BONUS)
 
 - Základy softvérového inžinierstva
 - Zásady SOLID (SOLID Principles)
@@ -126,14 +135,14 @@
 - Dokumentácia a komentovanie kódu (Code documentation and commenting)
 - Kontinuálna integrácia (CI) (Continuous Integration (CI))
 
-### Projekt pre konzolovú aplikáciu (Project for Console App)
+### 13-15. týždeň: Projekt pre konzolovú aplikáciu (Project for Console App)
 
 - Návrh projektu (Project Design)
 - Plánovanie projektu (Project Planning)
 - Implementácia projektu (Project Implementation)
 - Prezentácia projektu (Project Presentation)
 
-### Záverečné hodnotenie (Final Evaluation)
+### 16. týždeň: Záverečné hodnotenie (Final Evaluation)
 
 - Záverečné hodnotenie a prehľad (Final Evaluation and Summary)
 - Retrospektíva (Retrospective)
