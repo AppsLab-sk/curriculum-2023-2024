@@ -18,16 +18,13 @@ V každom týždni sa študenti zoznámia s konkrétnymi témami a naučia sa ic
 
 ### Pripomienka o OpenLabe
 
-- Prezentácia - Úvod do OpenLabu
+- Prezentácia - [Úvod do OpenLabu](/Prezentacie/1.%20Intro%20do%20OpenLabu.pptx)
   - Predstavenie Lab Mastra (Lab Mastrov)
   - Princípy OpenLabu
   - Hodnotenie
   - Kódex študenta
   - Praktické veci
   - Otázky a odpovede
-  - [ ] Presunúť prezentáciu do GitHubu
-
-Sure, let's split these lessons into two distinct weeks:
 
 ### 1. týždeň: Introduction to Web Development and HTML Basics
 
