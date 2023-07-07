@@ -25,5 +25,5 @@ Učebné materiály pre Open Lab Mastrov rozdelené podľa tried (ročníkov).
 
 ## 4. ročník
 
-- 1. polrok
-- 2. polrok
+- [1. polrok](/4_rocnik/1_polrok/Ucebny_plan.md)
+- [2. polrok](/4_rocnik/2_polrok/Ucebny_plan.md)
