@@ -1,4 +1,4 @@
-# HTML a CSS
+# JavaScript
 
 - 2. polrok (16 týždnov, 80 školských hodín)
 
