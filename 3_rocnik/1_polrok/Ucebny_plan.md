@@ -74,12 +74,12 @@ Kurz končí prehľadom učiva, hodnotením práce, retrospektívou a diskusiou 
 
 ### Week 7: Angular signals and shared services
 
-- **Front-end problem**: Add dashboard component with top 4 heroes shown.
-  - **Hint**: Adjust routing. Use writable signal to emit array of top 4 heroes. Use computed signal to display the heroes in comma separated form.
+- **Front-end problem**: Add dashboard component with top 5 heroes shown.
+  - **Hint**: Adjust routing. Use writable signal to emit array of top 5 heroes. Use computed signal to display the hero names in comma separated form.
 - **Back-end problem**: Create and use a shared service to assemble the heroes.
   - **Hint**: Create a service class that uses EF Core to interact with the database and inject it where needed.
 - **Lessons**: Angular - Signals, ASP.NET Core - Shared services
-- **Acceptance criteria**: The application has new dashboard component with top 4 heroes shown and uses shared services for assembling heroes.
+- **Acceptance criteria**: The application has new dashboard component with top 5 comma separated hero names shown and uses shared services for assembling heroes.
 
 ### Week 8: Advanced operations and API features
 
@@ -90,14 +90,14 @@ Kurz končí prehľadom učiva, hodnotením práce, retrospektívou a diskusiou 
 - **Lessons**: Angular - Pipes and Directives, ASP.NET Core - Advanced API features
 - **Acceptance criteria**: The application allows advanced operations like filtering and sorting, both on the client-side and via API calls.
 
-### Week 9: User Interaction and Authentication/Authorization
+### Week 9: Parent-child communication and Authentication/Authorization
 
-- **Front-end problem**: Allow users to select a hero from the list and edit it in the detail view.
-  - **Hint**: Use property binding to bind a selected hero to the detail view.
+- **Front-end problem**: Show heroes on dashboard as cards.
+  - **Hint**: Use Angular Material's Card component to create a new hero-card component. Use @Input and @Output decorators to handle communication between parent and child components. Hero card will have a button to move hero to start/end of dashboard heroes list.
 - **Back-end problem**: Implement authentication and authorization in the API.
   - **Hint**: Use ASP.NET Identity to add authentication and authorization. Configure and apply policies for controlling access to API endpoints.
-- **Lessons**: Angular - User interaction, ASP.NET Core - Authentication and Authorization
-- **Acceptance criteria**: The application allows users to select and edit a hero. The API has authentication and authorization set up, controlling who can access and modify data.
+- **Lessons**: Angular - Parent-child communication, ASP.NET Core - Authentication and Authorization
+- **Acceptance criteria**: The application dashboard displays top heroes as cards with reordering option. The API has authentication and authorization set up, controlling who can access and modify data.
 
 ### Week 10: Formatting with pipes and deployment
 
