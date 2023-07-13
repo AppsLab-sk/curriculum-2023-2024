@@ -68,7 +68,7 @@
 
 - Polia (Arrays)
 - Cykly - `while`, `for`, `foreach` (Loops)
-- `break`, `continue`
+  - `break`, `continue`
 - `List<T>`
 
 ### 7. týždeň: C# Metódy (C# Methods)
