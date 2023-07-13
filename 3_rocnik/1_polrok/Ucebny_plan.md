@@ -45,41 +45,41 @@ Kurz končí prehľadom učiva, hodnotením práce, retrospektívou a diskusiou 
 - **Lessons**: Angular - Angular Material, EF Core - Models and DbContext
 - **Acceptance criteria**: The Angular application uses Angular Material to display the list of heroes. The Hero model and DbContext are set up in the ASP.NET Core application.
 
-### Week 4: Navigation and API endpoints
+### Week 4: Call BE API and API endpoints
 
-- **Front-end problem**: Implement functionality for navigation between different views.
-  - **Hint**: Use Angular's Router module to configure and implement navigation.
+- **Front-end problem**: Load list of heroes from BE and send new hero to BE.
+  - **Hint**: Use HttpClient to perform a requests. Create appropriate angular services. Use async pipe to subscribe to Observables from the template.
 - **Back-end problem**: Create API endpoints for retrieving and adding heroes.
   - **Hint**: Use ASP.NET Core's Controller classes and action methods to create API endpoints.
-- **Lessons**: Angular - Navigation and Routing, ASP.NET Core - Creating APIs
-- **Acceptance criteria**: The application allows navigation between different views and is able to add new heroes via API.
+- **Lessons**: Angular - HttpClient and Async Pipe, ASP.NET Core - Creating APIs
+- **Acceptance criteria**: The application shows heroes loaded from the BE and is able to add new heroes via API.
 
-### Week 5: Directives and API enhancement
+### Week 5: Navigation and API enhancement
 
-- **Front-end problem**: Work with Angular directives to show and hide elements and display hero data.
-  - **Hint**: Use built-in Angular directives like `*ngIf` and `*ngFor` to manipulate the DOM.
+- **Front-end problem**: Add hero-details component and implement functionality for navigation between different views.
+  - **Hint**: Use Angular's Router module to configure and implement navigation.
 - **Back-end problem**: Extend the API endpoints to allow deleting and updating heroes.
   - **Hint**: Add new action methods in your controller to handle HTTP DELETE and PUT requests.
-- **Lessons**: Angular - Directives, ASP.NET Core - Extending APIs
-- **Acceptance criteria**: The application can display, delete, and update hero details.
+- **Lessons**: Angular - Navigation and Routing, ASP.NET Core - Extending APIs
+- **Acceptance criteria**: The application allows navigation between different views. The BE app provides endpoints to delete and update hero details.
 
-### Week 6: Details component and validation
+### Week 6: Extend API calls and validation
 
-- **Front-end problem**: Create the Detail component, which allows editing the details of a hero.
-  - **Hint**: Implement two-way data binding for editable fields in your Detail component.
+- **Front-end problem**: Allow editing of a hero details and deleting of heroes.
+  - **Hint**: Use `[(ngModel)]` directive to implement two-way data binding for editable fields in your Detail component. Add rest calls to delete and edit heroes.
 - **Back-end problem**: Implement validation rules and improve error handling in the API.
   - **Hint**: Use ASP.NET Core's model validation features and exception handling middleware.
-- **Lessons**: Angular - Displaying and editing details, ASP.NET Core - Validation and error handling
-- **Acceptance criteria**: The application allows editing hero details with validation rules and improved error handling.
+- **Lessons**: Angular - Deleting and editing details, ASP.NET Core - Validation and error handling
+- **Acceptance criteria**: The application allows deleting and editing hero details with validation rules and improved error handling.
 
-### Week 7: Two-way data binding and shared services
+### Week 7: Angular signals and shared services
 
-- **Front-end problem**: Add the ability to update a model via two-way data binding.
-  - **Hint**: Use `[(ngModel)]` directive for two-way data binding in your forms.
+- **Front-end problem**: Add dashboard component with top 4 heroes shown.
+  - **Hint**: Adjust routing. Use writable signal to emit array of top 4 heroes. Use computed signal to display the heroes in comma separated form.
 - **Back-end problem**: Create and use a shared service to assemble the heroes.
   - **Hint**: Create a service class that uses EF Core to interact with the database and inject it where needed.
-- **Lessons**: Angular - Two-way data binding, ASP.NET Core - Shared services
-- **Acceptance criteria**: The application allows model updates via two-way data binding and uses shared services for assembling heroes.
+- **Lessons**: Angular - Signals, ASP.NET Core - Shared services
+- **Acceptance criteria**: The application has new dashboard component with top 4 heroes shown and uses shared services for assembling heroes.
 
 ### Week 8: Advanced operations and API features
 
@@ -144,10 +144,10 @@ Kurz končí prehľadom učiva, hodnotením práce, retrospektívou a diskusiou 
 - **Lessons**: Angular - Testing, ASP.NET Core - Optimizing API Calls
 - **Acceptance criteria**: The application has unit tests for its components and services. API calls are optimized.
 
-### Week 15: Async Pipe and Asynchronous Processing (BONUS)
+### Week 15: Rxjs operators with signals and Asynchronous Processing (BONUS)
 
-- **Front-end problem**: Use async pipe to subscribe to Observables from the template.
-  - **Hint**: Use Angular's `async` pipe to subscribe to Observables and automatically update the view.
+- **Front-end problem**: Use Rxjs operators to improve working with subscriptions and observables.
+  - **Hint**: switchMap, exhaustMap, combineLatest and so on. How do rxjs operators work together with signals.
 - **Back-end problem**: Implement asynchronous processing in your ASP.NET Core application.
   - **Hint**: Use async/await keywords and asynchronous versions of EF Core methods.
 - **Lessons**: Angular - Async Pipe, ASP.NET Core - Asynchronous Processing
