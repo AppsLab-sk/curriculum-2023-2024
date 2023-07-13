@@ -135,16 +135,7 @@ Kurz končí prehľadom učiva, hodnotením práce, retrospektívou a diskusiou 
 - **Lessons**: Angular - Routing Guards, ASP.NET Core - Exception Handling
 - **Acceptance criteria**: Certain routes in the Angular application are protected by routing guards. Exceptions are handled globally in the ASP.NET Core application.
 
-### Week 14: Testing and Optimizing API Calls (BONUS)
-
-- **Front-end problem**: Implement unit testing for your Angular components and services.
-  - **Hint**: Use Angular's testing framework and Jasmine to create and run tests for your components and services.
-- **Back-end problem**: Optimize your API calls.
-  - **Hint**: Use features like caching, compression, or batching to improve your API's performance.
-- **Lessons**: Angular - Testing, ASP.NET Core - Optimizing API Calls
-- **Acceptance criteria**: The application has unit tests for its components and services. API calls are optimized.
-
-### Week 15: Rxjs operators with signals and Asynchronous Processing (BONUS)
+### Week 14: Rxjs operators with signals and Asynchronous Processing (BONUS)
 
 - **Front-end problem**: Use Rxjs operators to improve working with subscriptions and observables.
   - **Hint**: switchMap, exhaustMap, combineLatest and so on. How do rxjs operators work together with signals.
@@ -152,6 +143,15 @@ Kurz končí prehľadom učiva, hodnotením práce, retrospektívou a diskusiou 
   - **Hint**: Use async/await keywords and asynchronous versions of EF Core methods.
 - **Lessons**: Angular - Async Pipe, ASP.NET Core - Asynchronous Processing
 - **Acceptance criteria**: Async pipe is used in the Angular application. The ASP.NET Core application supports asynchronous processing.
+
+### Week 15: Testing and Optimizing API Calls (BONUS)
+
+- **Front-end problem**: Implement unit testing for your Angular components and services.
+  - **Hint**: Use Angular's testing framework and Jasmine to create and run tests for your components and services.
+- **Back-end problem**: Optimize your API calls.
+  - **Hint**: Use features like caching, compression, or batching to improve your API's performance.
+- **Lessons**: Angular - Testing, ASP.NET Core - Optimizing API Calls
+- **Acceptance criteria**: The application has unit tests for its components and services. API calls are optimized.
 
 ### Week 16: Recap, Evaluation, Retrospective, and Proposals for Future Projects
 
