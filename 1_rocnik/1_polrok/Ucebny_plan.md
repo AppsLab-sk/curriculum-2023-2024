@@ -45,9 +45,12 @@
   - Prax: Predstavenie spôsobu práce s repozitárom - fork, commit, pull-request
   - Prax: Predstavenie automatického testovania riešení pre cvičenia pomocou GitHub Actions
 
+> [CSharp repozitár](https://github.com/AppsLab-sk/csharp)
+
 ### 4. týždeň: C# Základy (C# Fundamentals) I
 
-- Console.WriteLine, Komenty (Console.WriteLine, Comments)
+- Console.WriteLine
+- Komentáre (Comments)
 - Premenné, dátové typy a konštanty (Variables, Data Types, Constants)
 - Implicitné a explicitné pretypovanie (Implicit and Explicit Casting)
 - Console.ReadLine
@@ -66,8 +69,7 @@
 - Polia (Arrays)
 - Cykly - `while`, `for`, `foreach` (Loops)
 - `break`, `continue`
-- Triedenie zoznamov (Sorting)
-- Viacrozmerné polia (Multidimensional Arrays)
+- `List<T>`
 
 ### 7. týždeň: C# Metódy (C# Methods)
 
