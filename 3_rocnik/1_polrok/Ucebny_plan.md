@@ -29,21 +29,21 @@ Kurz končí prehľadom učiva, hodnotením práce, retrospektívou a diskusiou 
 
 ### Week 2: Creating components and database structure
 
-- **Front-end problem**: Create the main components of the application: HeroesListComponent, HeroDetailComponent.
-  - **Hint**: Use Angular CLI commands `ng generate component HeroesList` and `ng generate component HeroDetail`.
+- **Front-end problem**: Create the main component of the application: HeroesListComponent and show the list of heroes.
+  - **Hint**: Use Angular CLI commands `ng generate component heroes-list`. Understand angular component lifecycle. Use *ngFor directive to display an array of heroes. Use *ngIf to display placeholder if user has no name specified.
 - **Back-end problem**: Create the basic structure of the database in MS SQL using EF Core migrations.
   - **Hint**: Define a Hero model and use EF Core tools to create and apply a migration.
-- **Lessons**: Angular - Components, EF Core - Migrations
-- **Acceptance criteria**: You have HeroesList and HeroDetail components in Angular. The basic structure of the database is ready in MS SQL.
+- **Lessons**: Angular - Displaying data in the component, EF Core - Migrations
+- **Acceptance criteria**: The Angular application can display a list of heroes. The basic structure of the database is ready in MS SQL.
 
-### Week 3: Implementing heroes list and Hero model
+### Week 3: Add Angular material library and Hero model
 
-- **Front-end problem**: Implement displaying the list of heroes in HeroesListComponent.
-  - **Hint**: Use *ngFor directive to display an array of heroes.
+- **Front-end problem**: Use Angular Material to make heroes-list component look pretty.
+  - **Hint**: Use List component to display an array of heroes.
 - **Back-end problem**: Create a Hero model and configure EF Core DbContext.
   - **Hint**: Define Hero class with necessary properties and include a `DbSet<Hero>` in your `DbContext` class.
-- **Lessons**: Angular - Displaying data in the component, EF Core - Models and DbContext
-- **Acceptance criteria**: The Angular application can display a list of heroes. The Hero model and DbContext are set up in the ASP.NET Core application.
+- **Lessons**: Angular - Angular Material, EF Core - Models and DbContext
+- **Acceptance criteria**: The Angular application uses Angular Material to display the list of heroes. The Hero model and DbContext are set up in the ASP.NET Core application.
 
 ### Week 4: Navigation and API endpoints
 
