@@ -102,7 +102,6 @@
 - Udalosti (Events)
 - Lambda výrazy (Lambda Expressions)
 - LINQ
-- Rozšírene metódy (Extension Methods)
 - Generické typy (Generics)
 - Indexátori (Indexers)
 
