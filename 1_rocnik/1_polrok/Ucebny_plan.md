@@ -74,25 +74,24 @@
 ### 7. týždeň: C# Metódy (C# Methods)
 
 - Metódy (Methods)
-- Parametre a argumenty (Parameters and Arguments)
-- Návratové hodnoty (Return Values)
+  - Návratové hodnoty (Return Values)
+  - Parametre a argumenty (Parameters and Arguments)
 - Preťaženie metód (Method Overloading)
 
 ### 8. týždeň: C# Triedy (C# Classes)
 
 - Čo je OOP?
-- Triedy a objekty (Classes and Objects)
-- Viac tried a objektov (Multiple Classes and Objects)
-- Členovia triedy (Class Members)
-- Konštruktor (Constructor)
-- Modifikátory prístupu (Access Modifiers)
-- Vlastnosti (Properties)
-- Dedičnosť (Inheritance)
-- Polymorfizmus (Polymorphism)
-- Abstrakcia (Abstraction)
+  - Triedy a objekty (Classes and Objects)
+  - Viac tried a objektov (Multiple Classes and Objects)
+  - Členovia triedy (Class Members)
+  - Konštruktor (Constructor)
+  - Modifikátory prístupu (Access Modifiers)
+  - Vlastnosti (Properties)
+  - Dedičnosť (Inheritance)
+  - Polymorfizmus (Polymorphism)
+  - Abstrakcia (Abstraction)
 - Rozhranie (Interface)
-- Viaceré rozhrania (Multiple Interfaces)
-- Enum
+  - Viaceré rozhrania (Multiple Interfaces)
 - Súbory (Files)
 - Výnimky (Exceptions)
 
@@ -100,19 +99,12 @@
 
 ### 9. týždeň: Pokročilý C# (Advanced C#) (BONUS)
 
-- Delegáty (Delegates)
 - Udalosti (Events)
 - Lambda výrazy (Lambda Expressions)
 - LINQ
 - Rozšírene metódy (Extension Methods)
 - Generické typy (Generics)
 - Indexátori (Indexers)
-- Operátory a ich preťaženie (Operators and Overloading)
-- Štruktúry (Structs)
-- Nullable typy (Nullable Types)
-- Anonymné typy (Anonymous Types)
-- Dynamické typy (Dynamic Types)
-- Atribúty (Attributes)
 
 ### 10. týždeň: C# Multithreading (BONUS)
 
