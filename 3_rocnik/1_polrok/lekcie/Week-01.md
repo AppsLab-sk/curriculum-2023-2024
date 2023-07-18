@@ -83,7 +83,27 @@ Táto lekcia je venovaná základom Angularu a ASP.NET Core a ich nastaveniu v l
 
 **Back-end (ASP.NET Core):** Inštalácia .NET Core SDK, vytvorenie nového ASP.NET Core projektu s pomocou .NET CLI.
 
-**Kombinácia:** Vytvorenie webovej aplikácie s použitím Angularu a ASP.NET Core vo Visual Studio 2022 s pomocou existujúcej šablóny.
+**Kombinácia:**
+
+1. **Spustenie Visual Studio 2022:** Začnite kliknutím na tlačidlo "Start" vo Visual Studio 2022 alebo cez príkazový riadok s príkazom `devenv`.
+
+2. **Vytvorenie nového projektu:** Zvoľte "Create a new project" v úvodnej obrazovke.
+
+3. **Výber šablóny projektu:** V dialógovom okne "Create a new project" zadajte "ASP.NET Core with Angular" do vyhľadávacieho poľa a vyberte túto šablónu z ponuky. Kliknite na "Next".
+
+4. **Konfigurácia projektu:** Zadajte názov, umiestnenie a názov riešenia pre váš projekt v dialógovom okne "Configure your new project" a kliknite na "Next".
+
+5. **Konfigurácia ASP.NET Core a Angular:** Na nasledujúcej obrazovke, "Configure your new ASP.NET Core with Angular", vyberte nasledujúce možnosti:
+   - **Framework:** Zvoľte ".NET 6.0" alebo novší.
+   - **Authentication type:** Vyberte "Individual Accounts".
+
+6. **Vytvorenie projektu:** Kliknite na tlačidlo "Create" pre vytvorenie projektu.
+
+7. **Spustenie projektu:** Kliknite na tlačidlo "Debug/Start Debugging" alebo stlačte F5, aby ste spustili aplikáciu.
+
+Visual Studio 2022 vytvorí a spustí vašu webovú aplikáciu s Angularom na front-ende a ASP.NET Core na back-ende. Aplikácia bude automaticky otvorená vo výchozom webovom prehliadači.
+
+Výsledkom je webová aplikácia postavená na ASP.NET Core s Angularom, ktorá je pripravená na ďalší vývoj. Aplikácia je nakonfigurovaná s autentifikáciou pomocou individuálnych účtov, takže užívateľ sa môže zaregistrovať a prihlásiť pomocou vytvorených účtov.
 
 ### Očakávané výsledky
 
