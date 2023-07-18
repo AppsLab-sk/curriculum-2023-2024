@@ -79,11 +79,88 @@ Táto lekcia je venovaná základom Angularu a ASP.NET Core a ich nastaveniu v l
 
 ### Popis cvičenia
 
-**Front-end (Angular):** Inštalácia Node.js a npm, vytvorenie nového Angular projektu s pomocou Angular CLI.
+### **Front-end (Angular):**
 
-**Back-end (ASP.NET Core):** Inštalácia .NET Core SDK, vytvorenie nového ASP.NET Core projektu s pomocou .NET CLI.
+#### Krok 1: Inštalácia Node.js a npm
 
-**Kombinácia:**
+1.1. Prejdite na oficiálnu webovú stránku Node.js: [https://nodejs.org](https://nodejs.org).
+
+1.2. Stiahnite najnovšiu stabilnú verziu Node.js kliknutím na tlačidlo "Recommended for most users". Tým stiahnete inštalačný balíček.
+
+1.3. Otvorte stiahnutý inštalačný balíček a postupujte podľa pokynov na obrazovke.
+
+1.4. Po inštalácii môžete overiť, či sa Node.js a npm inštalovali úspešne, otvorením príkazového riadka a zadaním nasledujúcich príkazov:
+
+``` cmd
+node -v
+npm -v
+```
+
+Ak vidíte verzie Node.js a npm, inštalácia prebehla úspešne.
+
+#### Krok 2: Inštalácia Angular CLI
+
+2.1. Angular CLI (Command Line Interface) je nástroj, ktorý nám umožňuje vytvárať a spravovať Angular projekty z príkazového riadka. Angular CLI môžeme inštalovať pomocou npm s nasledujúcim príkazom:
+
+``` cmd
+npm install -g @angular/cli
+```
+
+2.2. Po inštalácii môžeme overiť verziu Angular CLI zadaním príkazu:
+
+``` cmd
+ng --version
+```
+
+Ak vidíte informácie o verzii Angular CLI, inštalácia prebehla úspešne.
+
+#### Krok 3: Vytvorenie nového Angular projektu s pomocou Angular CLI
+
+3.1. Nový Angular projekt môžeme vytvoriť pomocou príkazu `ng new`. Tento príkaz vytvorí nový adresár s názvom projektu a vytvorí v ňom základnú štruktúru Angular aplikácie.
+
+``` cmd
+ng new my-angular-app
+```
+
+3.2. Angular CLI vás požiada o niekoľko možností konfigurácie. Môžete si vybrať, či chcete pridať routing a ktorý stylesheet formát chcete použiť. Ak neviete, čo vybrať, môžete jednoducho stlačiť Enter a použiť predvolené nastavenia.
+
+3.3. Po vytvorení projektu prejdite do adresára projektu pomocou príkazu `cd`:
+
+``` cmd
+cd my-angular-app
+```
+
+3.4. Spustite aplikáciu pomocou príkazu `ng serve`:
+
+``` cmd
+ng serve
+```
+
+3.5. Otvorte webový prehliadač a prejdite na adresu `http://localhost:4200`. Mal by ste vidieť uvítaciu stránku Angular aplikácie. Vaša Angular aplikácia je teraz pripravená a beží!
+
+### **Back-end (ASP.NET Core):**
+
+#### Krok 1: Inštalácia .NET SDK
+
+Prvým krokom je inštalácia .NET SDK (Software Development Kit), ktorý obsahuje všetky potrebné nástroje pre vývoj ASP.NET Core aplikácií.
+
+1.1. Prejdite na stránku [.NET Downloads](https://dotnet.microsoft.com/download)
+
+1.2. Vyberte verziu SDK, ktorú chcete inštalovať. Doporučujeme vždy použiť najnovšiu stabilnú verziu.
+
+1.3. Stiahnite a nainštalujte .NET SDK podľa inštrukcií na stiahnutej stránke. 
+
+#### Krok 2: Vytvorenie nového ASP.NET Core projektu s pomocou .NET CLI
+
+.NET CLI (Command Line Interface) je nástroj, ktorý umožňuje vytvárať, testovať a publikovať .NET projekty z príkazového riadku. Pre vytvorenie nového ASP.NET Core projektu postupujte nasledovne:
+
+2.1. Otvorte príkazový riadok (Command Prompt, PowerShell, alebo Terminal, v závislosti na vašom operačnom systéme).
+
+2.2. Prejdite do priečinka, kde chcete projekt vytvoriť. To môžete dosiahnuť príkazom `cd`, napríklad: `cd Documents/Projects`.
+
+2.3. Ak chcete vytvoriť nový ASP.NET Core projekt, použite príkaz `dotnet new`. Na vytvorenie webovej API aplikácie použite príkaz `dotnet new webapi -n MyApi`, kde `MyApi` je názov vášho projektu. Tento príkaz vytvorí nový ASP.NET Core Web API projekt s názvom "MyApi".
+
+### **Kombinácia:**
 
 1. **Spustenie Visual Studio 2022:** Začnite kliknutím na tlačidlo "Start" vo Visual Studio 2022 alebo cez príkazový riadok s príkazom `devenv`.
 
