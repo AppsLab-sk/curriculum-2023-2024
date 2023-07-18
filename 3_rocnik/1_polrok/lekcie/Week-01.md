@@ -15,13 +15,49 @@ Táto lekcia je venovaná základom Angularu a ASP.NET Core a ich nastaveniu v l
 
 ## 2. Popis lekcie
 
-### Teória
+### Front-end (Angular)
 
-**Front-end (Angular):** Základné pojmy a nastavenie prostredia s pomocou Node.js, npm a Angular CLI.
+#### Čo je Angular?
 
-**Back-end (ASP.NET Core):** Základné pojmy a nastavenie prostredia s pomocou .NET Core SDK a .NET CLI.
+- Angular je open-source framework pre vývoj webových aplikácií, ktorý bol vytvorený a je udržiavaný spoločnosťou Google. Je postavený na jazyku TypeScript od Microsoftu, ktorý je staticky typovaný nadstavbou JavaScriptu, čo pridáva dodatočnú bezpečnosť a efektívnosť vývoja.
 
-**Kombinácia:** Použitie šablóny vo Visual Studio 2022 pre vytvorenie webovej aplikácie s Angularom a ASP.NET Core.
+#### Komponenty v Angulare
+
+- Jedinou základnou stavebnou jednotkou v Angulare sú komponenty. Komponenty sú nezávislé a opakovateľné časti kódu, ktoré zoskupujú HTML šablónu, CSS štýly a logiku do jedného celku, čo nám umožňuje budovať komplexné aplikácie ako súbor samostatných, opakovateľných a izolovaných komponentov.
+
+#### Nastavenie prostredia
+
+- Predtým, než môžeme začať vytvárať aplikácie v Angulare, je potrebné nastaviť vývojové prostredie. Na to potrebujeme nainštalovať Node.js a npm (Node Package Manager). Node.js nám poskytuje serverovú platformu pre spustenie JavaScriptu a npm je balíčkovací systém, ktorý nám umožňuje inštalovať a spravovať balíčky JavaScriptu, na ktorých sa Angular a naše aplikácie spoliehajú.
+
+#### Angular CLI
+
+- Po inštalácii Node.js a npm môžeme nainštalovať Angular CLI (Command Line Interface). Angular CLI je výkonný nástroj, ktorý nám uľahčuje vývoj aplikácií v Angulare. Umožňuje nám vytvárať nové projekty, generovať rôzne časti kódu (napr. komponenty, služby, moduly atď.), spúšťať testy, buildovať našu aplikáciu pre produkciu a spúšťať lokálny vývojový server, ktorý nám umožňuje vidieť naše zmeny v reálnom čase.
+
+### Back-end (ASP.NET Core)
+
+#### Čo je ASP.NET Core?
+
+- ASP.NET Core je open-source a multiplatformový framework pre vývoj moderných webových aplikácií. Je vytvorený a udržiavaný spoločnosťou Microsoft. Tento framework je navrhnutý pre vytváranie moderných internetových aplikácií, vrátane webových aplikácií a služieb API.
+
+#### Testovateľnosť a podpora moderných vývojových prístupov
+
+- ASP.NET Core je navrhnutý tak, aby bol ľahko testovateľný. Umožňuje vytváranie jednotkových testov pre logické časti kódu, čo zvyšuje kvalitu výslednej aplikácie a uľahčuje jej údržbu. Taktiež podporuje moderné vývojové prístupy, ako je napríklad dependency injection. Toto je technika, ktorá znižuje závislosť medzi jednotlivými časťami kódu a zjednodušuje ich testovanie.
+
+#### Multiplatformovosť
+
+- ASP.NET Core aplikácie je možné vytvárať a spúšťať na rôznych platformách. Podporuje Windows, macOS aj Linux. To umožňuje vývojárom pracovať na platforme, na ktorej sú najproduktívnejší.
+
+#### .NET Core SDK a .NET CLI
+
+- Kľúčovým prvkom pre prácu s ASP.NET Core je .NET Core SDK (Software Development Kit). Tento balík obsahuje všetky nástroje potrebné pre vývoj ASP.NET Core aplikácií. Medzi tieto nástroje patrí napríklad .NET CLI (Command Line Interface), ktorý umožňuje riadenie projektu a balíčkov.
+
+#### Jazyk `C#`
+
+- Kód ASP.NET Core aplikácií sa obvykle píše v jazyku C#, ktorý je moderný, typovo bezpečný, objektovo orientovaný programovací jazyk od spoločnosti Microsoft. C# má silnú podporu pre moderné programovacie koncepty ako sú asynchrónne operácie, LINQ, tuples, pattern matching a iné.
+
+### Kombinácia
+
+- Visual Studio 2022 ponúka šablóny pre vytvorenie webovej aplikácie, ktorá využíva Angular na front-ende a ASP.NET Core na back-ende. Tieto šablóny poskytujú už predpripravený základ pre rýchlejší štart vývoja. V tomto kurze si ukážeme, ako použiť túto šablónu pre vytvorenie nového projektu.
 
 ### Google Search
 
