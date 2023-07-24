@@ -162,6 +162,8 @@ Prvým krokom je inštalácia .NET SDK (Software Development Kit), ktorý obsahu
 
 ### **Kombinácia:**
 
+_Upozornenie: Takto vytvorený projekt obsahuje viacero predpripravených súborov s obsahom, ktorému porozumieme v ďalšom priebehu kurzu._
+
 1. **Spustenie Visual Studio 2022:** Začnite kliknutím na tlačidlo "Start" vo Visual Studio 2022 alebo cez príkazový riadok s príkazom `devenv`.
 
 2. **Vytvorenie nového projektu:** Zvoľte "Create a new project" v úvodnej obrazovke.
