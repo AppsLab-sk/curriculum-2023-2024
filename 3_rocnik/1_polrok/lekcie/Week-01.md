@@ -109,7 +109,7 @@ npm install -g @angular/cli
 2.2. Po inštalácii môžeme overiť verziu Angular CLI zadaním príkazu:
 
 ``` cmd
-ng --version
+ng version
 ```
 
 Ak vidíte informácie o verzii Angular CLI, inštalácia prebehla úspešne.
