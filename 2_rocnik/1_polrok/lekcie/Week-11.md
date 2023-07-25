@@ -22,16 +22,16 @@ Vitajte v jedenástom týždni nášho kurzu o základoch web developmentu a CSS
 
 V dnešnom svete, kedy ľudia pristupujú na web cez rôzne zariadenia, je nevyhnutné, aby vaše webové stránky boli responzívne. Responzívny dizajn zabezpečuje, že vaše webové stránky budú vždy vyzerať a fungovať dobre, bez ohľadu na to, aké zariadenie používa váš používateľ.
 
-Flexbox je tiež kľúčovým nástrojom pre moderného vývojára webových stránok. Umožňuje vytvárať komplexné rozloženia, ktoré sú robustné a flexibilné, s menej kódu a menším množstvom problémov, ako pri tradičných metódach.
+Flexbox je tiež kľúčovým nástrojom pre moderného vývojára webových stránok. Umožňuje vytvárať komplexné štruktúry stránok, ktoré sú robustné a flexibilné, s menej kódu a menším množstvom problémov, ako pri tradičných metódach.
 
 ## Ako uplatniť nadobudnuté vedomosti v praxi
 
-Po absolvovaní týchto lekcií budú študenti schopní navrhovať a implementovať responzívne webové stránky, ktoré využívajú Flexbox pre komplexné rozloženie. Budú mať skúsenosti s prispôsobovaním dizajnu svojich stránok rôznym veľkostiam obrazovky a rozlíšeniam pomocou mediálnych otázok, a tiež budú vedieť, ako optimalizovať obrázky a videá pre responzívny dizajn.
+Po absolvovaní týchto lekcií budú študenti schopní navrhovať a implementovať responzívne webové stránky, ktoré využívajú Flexbox pre komplexné rozloženie. Budú mať skúsenosti s prispôsobovaním dizajnu svojich stránok rôznym veľkostiam obrazovky a rozlíšeniam pomocou mediálnych dopytov, a tiež budú vedieť, ako optimalizovať obrázky a videá pre responzívny dizajn.
 
 ## Praktické príklady
 
 1. Navrhnite a implementujte responzívnu webovú stránku, ktorá využíva Flexbox na vytvorenie komplexného rozloženia.
-2. Experimentujte s mediálnymi otázkami a vytvárajte rôzne verzie svojho dizajnu pre rôzne veľkosti obrazovky.
+2. Experimentujte s mediálnymi dopytmi a vytvárajte rôzne verzie svojho dizajnu pre rôzne veľkosti a nastavenia obrazovky.
 3. Optimalizujte obrázky a videá na svojich webových stránkach pre responzívny dizajn, aby sa správne zobrazovali na rôznych zariadeniach.
 4. Vytvorte webovú stránku, ktorá využíva Flexbox na vytvorenie komplexného rozloženia, ktoré sa prispôsobuje veľkosti obrazovky používateľa.
 

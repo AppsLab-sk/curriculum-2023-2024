@@ -7,8 +7,8 @@ Vitajte v deviatom týždni nášho kurzu o základoch web developmentu a HTML! 
 ## Lekcie
 
 - [HTML Block & Inline](https://www.w3schools.com/html/html_blocks.asp)
-- [HTML Classes](https://www.w3schools.com/html/html_classes.asp)
-- [HTML Id](https://www.w3schools.com/html/html_id.asp)
+- [HTML Class Attribute](https://www.w3schools.com/html/html_classes.asp)
+- [HTML Id Attribute](https://www.w3schools.com/html/html_id.asp)
 - [HTML Iframes](https://www.w3schools.com/html/html_iframe.asp)
 - [HTML JavaScript](https://www.w3schools.com/html/html_scripts.asp)
 - [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
@@ -26,7 +26,7 @@ Vitajte v deviatom týždni nášho kurzu o základoch web developmentu a HTML! 
 
 ## Prečo sa toto učiť?
 
-Pokročilé vedomosti HTML sú nevyhnutné pre každého vývojára webových stránok. Rozumieť pokročilým aspektom HTML, ako sú blokové a inline prvky, atribúty `class` a `id`, `iframes`, JavaScript v HTML, cesty k súborom, prvok `head`, techniky a prvky HTML rozloženia, prvky počítačového kódu, sémantické prvky, štýlové príručky, entity, symboly, emodži, kódovanie a URL kódovanie, je kľúčové pre vytváranie robustných a interaktívnych webových stránok.
+Pokročilé vedomosti HTML sú nevyhnutné pre každého vývojára webových stránok. Rozumieť pokročilým aspektom HTML, ako sú blokové a inline prvky, atribúty `class` a `id`, `iframes`, vkladanie programového kódu v jazyku JavaScript do HTML, cesty k súborom, prvok `head`, techniky a prvky HTML rozloženia, prvky počítačového kódu, sémantické prvky, pravidlá písania tzv. "správneho" HTML kódu, vkladanie špeciálnych znakov a symbolov, vkladanie emotikonov, výber a nastavenie znakovej sady stránky a pravidlá vytvárania URL kódovanie, sú znalosti kľúčové pre vytváranie robustných a interaktívnych webových stránok s korektnou funkciou.
 
 ## Ako uplatniť nadobudnuté vedomosti v praxi
 

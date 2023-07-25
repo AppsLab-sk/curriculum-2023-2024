@@ -2,7 +2,7 @@
 
 ## Úvod
 
-Vitajte v prvom týždni nášho kurzu o základoch web developmentu a HTML! Tento týždeň sa zameriame na základné koncepty a prvky HTML. HTML, alebo "HyperText Markup Language", je základom všetkých webových stránok. Získate praktické skúsenosti s vytváraním a upravovaním jednoduchých HTML stránok, pochopením a využitím rôznych HTML prvkov a atribútov.
+Vitajte v prvom týždni nášho kurzu o základoch vývoja webových stránok (web developmentu) a jazyka HTML! Tento týždeň sa zameriame na základné koncepty a prvky HTML. HTML, alebo "HyperText Markup Language", je základom všetkých webových stránok. Získate praktické skúsenosti s vytváraním a upravovaním jednoduchých HTML stránok, pochopením a využitím rôznych HTML prvkov a atribútov.
 
 ## Lekcie
 
@@ -10,12 +10,12 @@ Vitajte v prvom týždni nášho kurzu o základoch web developmentu a HTML! Ten
 - [HTML Basic](https://www.w3schools.com/html/html_basic.asp)
 - [HTML Elements](https://www.w3schools.com/html/html_elements.asp)
 - [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
-- [HTML Page Title](https://www.w3schools.com/html/html_head.asp)
+- [HTML Head](https://www.w3schools.com/html/html_head.asp)
 - [HTML Editors](https://www.w3schools.com/html/html_editors.asp)
-- [HTML Head](https://www.w3schools.com/html/html_headings.asp)
-- [HTML Headings](https://www.w3schools.com/html/html_paragraphs.asp)
-- [HTML Paragraphs](https://www.w3schools.com/html/html_styles.asp)
-- [HTML Styles](https://www.w3schools.com/html/html_formatting.asp)
+- [HTML Headings](https://www.w3schools.com/html/html_headings.asp)
+- [HTML Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)
+- [HTML Styles](https://www.w3schools.com/html/html_styles.asp)
+- [HTML Text Formating](https://www.w3schools.com/html/html_formatting.asp)
 
 ## Prečo sa toto učiť?
 

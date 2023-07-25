@@ -1,17 +1,17 @@
-# 2. týždeň: Describing HTML Styles and Introduction to CSS
+# 2. týždeň: Opis štýlovania HTML a úvod do CSS
 
 ## Úvod
 
-Vitajte v druhom týždni nášho kurzu o základoch HTML a CSS! Tento týždeň sa zameriame na štýly v HTML a úvod do CSS. CSS, alebo "Cascading Style Sheets", je jazyk, ktorý sa používa na vytváranie a úpravu štýlov webu. Získate praktické skúsenosti s pridávaním a manipuláciou štýlov v HTML pomocou CSS, pochopením syntaxe a selektorov CSS a tiež sa zoznámite s pridávaním CSS a komentárami v CSS.
+Vitajte v druhom týždni nášho kurzu o základoch HTML a CSS! Tento týždeň sa zameriame na štýly v HTML a úvod do CSS. CSS, alebo "Cascading Style Sheets", je jazyk, ktorý sa používa na definovanie štýlu jednotlivých objektov webu. Získate praktické skúsenosti s pridávaním a manipuláciou štýlov v HTML pomocou CSS, pochopením syntaxe a selektorov CSS a tiež sa zoznámite s pridávaním CSS a komentárami v CSS.
 
 ## Lekcie
 
-- HTML Styles - CSS
-- CSS Introduction
-- CSS Syntax
-- CSS Selectors
-- How to Add CSS
-- CSS Comments
+- [HTML Styles CSS](https://www.w3schools.com/html/html_css.asp)
+- [CSS Introduction](https://www.w3schools.com/css/css_intro.asp)
+- [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
+- [CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
+- [How to Add CSS](https://www.w3schools.com/css/css_howto.asp)
+- [CSS Comments](https://www.w3schools.com/css/css_comments.asp)
 
 ## Prečo sa toto učiť?
 
