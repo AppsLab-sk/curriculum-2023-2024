@@ -4,12 +4,12 @@
 
 ### Prehľad lekcie
 
-V tejto lekcii sa naučíme pridávať nové komponenty a implementovať funkčnosť pre navigáciu medzi rôznymi zobrazeniami na front-ende. Na back-ende rozšírime API koncové body, aby umožňovali mazať a aktualizovať hrdinov.
+V tejto lekcii sa naučíme pridávať nové komponenty a implementovať funkčnosť pre navigáciu medzi rôznymi zobrazeniami na front-ende. Na back-ende rozšírime API koncové body (endpointy), aby umožňovali mazať a aktualizovať hrdinov.
 
 ### Cieľ lekcie
 
 - Vedieť pridať nové komponenty a implementovať navigáciu medzi rôznymi zobrazeniami v Angular
-- Vedieť rozšíriť API koncové body na mazanie a aktualizáciu hrdinov v ASP.NET Core
+- Vedieť rozšíriť API endpointy na mazanie a aktualizáciu hrdinov v ASP.NET Core
 
 ## 2. Popis lekcie
 
@@ -17,13 +17,13 @@ V tejto lekcii sa naučíme pridávať nové komponenty a implementovať funkčn
 
 **Front-end (Angular):** Pridanie komponentu hero-details a implementácia funkcionality pre navigáciu medzi rôznymi zobrazeniami.
 
-**Back-end (ASP.NET Core):** Rozšírenie API koncových bodov na mazanie a aktualizáciu hrdinov.
+**Back-end (ASP.NET Core):** Rozšírenie API endpointov na mazanie a aktualizáciu hrdinov.
 
 ### Google Search
 
 **Front-end (Angular):** "Angular router", "Navigating between views in Angular"
 
-**Back-end (ASP.NET Core):** "Extending API in ASP.NET Core", "Handling DELETE and PUT requests in ASP.NET Core"
+**Back-end (ASP.NET Core):** "Handling DELETE and PUT requests in ASP.NET Core"
 
 ### ChatGPT
 
@@ -37,12 +37,12 @@ V tejto lekcii sa naučíme pridávať nové komponenty a implementovať funkčn
 
 **Front-end (Angular):** Pridajte komponent hero-details a implementujte funkcionalitu pre navigáciu medzi rôznymi zobrazeniami pomocou Angular Router.
 
-**Back-end (ASP.NET Core):** Rozšírte API koncové body tak, aby umožňovali mazanie a aktualizáciu hrdinov.
+**Back-end (ASP.NET Core):** Rozšírte API endpointy tak, aby umožňovali mazanie a aktualizáciu hrdinov.
 
 ### Očakávané výsledky
 
 - Aplikácia umožňuje navigáciu medzi rôznymi zobrazeniami.
-- Back-end aplikácia poskytuje koncové body pre mazanie a aktualizáciu detailov hrdinov.
+- Back-end aplikácia poskytuje endpointy pre mazanie a aktualizáciu detailov hrdinov.
 
 ### Pomôcky
 
@@ -51,11 +51,11 @@ V tejto lekcii sa naučíme pridávať nové komponenty a implementovať funkčn
 
 ## 4. Zhrnutie
 
-V tejto lekcii sme sa naučili pridávať nové komponenty a implementovať navigáciu medzi rôznymi zobrazeniami v Angular. Na back-ende sme rozšírili API koncové body na mazanie a aktualizáciu hrdinov.
+V tejto lekcii sme sa naučili pridávať nové komponenty a implementovať navigáciu medzi rôznymi zobrazeniami v Angular. Na back-ende sme rozšírili API endpointy na mazanie a aktualizáciu hrdinov.
 
 ## 5. Ďalšie kroky
 
-Skúste vylepšiť navigáciu medzi zobrazeniami a pridať ďalšie funkcionality do vašej aplikácie. Na back-ende skúste rozšíriť API koncové body o ďalšie funkcionality. Pripravte sa na ďalšiu lekciu, kde sa budeme zaoberať implementáciou pokročilejších funkcií.
+Skúste vylepšiť navigáciu medzi zobrazeniami a pridať ďalšie funkcionality do vašej aplikácie. Na back-ende skúste rozšíriť API endpointy o ďalšie funkcionality. Pripravte sa na ďalšiu lekciu, kde sa budeme zaoberať implementáciou pokročilejších funkcií.
 
 ## 6. Ďalšie štúdium
 
