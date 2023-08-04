@@ -1,8 +1,8 @@
-# 5. týždeň: Creation of HTML Links, Images, and Basics of CSS Styling
+# 5. týždeň: Vytváranie odkazov v HTML, práca s obrázkami a základy štýlovania pomocou CSS
 
 ## Úvod
 
-Vitajte v piatom týždni nášho kurzu o základoch web developmentu a HTML! Tento týždeň sa zameriame na vytváranie odkazov v HTML, prácu s obrázkami a základy štýlovania s CSS. Tieto koncepty sú kľúčové pre vytváranie funkcnej a vizuálne atraktívnej webovej stránky.
+Vitajte v piatom týždni nášho kurzu o základoch web developmentu a HTML! Tento týždeň sa zameriame na vytváranie odkazov v HTML, prácu s obrázkami a základy štýlovania pomocou CSS. Tieto koncepty sú kľúčové pre vytváranie funkčnej a vizuálne atraktívnej webovej stránky.
 
 ## Lekcie
 
@@ -31,7 +31,7 @@ Vitajte v piatom týždni nášho kurzu o základoch web developmentu a HTML! Te
 
 ## Prečo sa toto učiť?
 
-Vytváranie odkazov a práca s obrázkami sú základné schopnosti, ktoré potrebujete na vytváranie plne funkčných webových stránok. CSS štýly umožňujú prispôsobiť vzhľad týchto prvkov a celkovej webovej stránky, aby vyhovovali vašim potrebám a estetickým preferenciám.
+Vytváranie odkazov a práca s obrázkami sú základné schopnosti, ktoré potrebujete na vytváranie plne funkčných webových stránok. CSS štýly umožňujú prispôsobiť vzhľad jednotlivých prvkov a celkovej webovej stránky, aby vyhovovali Vašim potrebám a estetickým preferenciám.
 
 ## Ako uplatniť nadobudnuté vedomosti v praxi
 
@@ -41,7 +41,7 @@ Po absolvovaní týchto lekcií budete schopní vytvárať odkazy v HTML, pracov
 
 1. Vytvorte stránku, ktorá obsahuje rôzne typy odkazov, vrátane odkazov s rôznymi farbami, odkazov, ktoré otvárajú nové karty, a odkazov, ktoré smerujú na rôzne časti rovnakej stránky.
 2. Experimentujte s vkladaním obrázkov na stránku, vrátane vytvorenia mapy obrázkov a použitia prvku `<picture>` pre responzívne obrázky.
-3. Vytvorte stránku, ktorá využíva rôzne CSS štýly na upravenie vzhľadu pozadia, okrajov a textu. Skúste vytvoriť niekoľko rôznych štýlov a použite ich na rôzne časti stránky.
+3. Vytvorte stránku, ktorá využíva rôzne CSS štýly na nastavenie vzhľadu pozadia, okrajov a textu. Skúste vytvoriť niekoľko rôznych štýlov a použite ich na rôzne časti stránky.
 4. Vytvorte stránku, ktorá využíva CSS na vytvorenie dynamických vizuálnych efektov, ako je zmena farby odkazu pri prechode myšou, animácia obrázkov alebo zmena štýlu textu pri kliknutí.
 5. Vytvorte stránku, ktorá využíva CSS na vytvorenie pokročilých vizuálnych efektov, ako je pridanie tieňov k textu, vytvorenie gradientného pozadia alebo vytvorenie obrázku s efektom paralaxy.
 

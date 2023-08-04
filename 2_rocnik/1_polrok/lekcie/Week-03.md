@@ -1,4 +1,4 @@
-# 3. týždeň: Creating and Editing Text in HTML
+# 3. týždeň: Vytváranie a štruktúrovanie textu v HTML
 
 ## Úvod
 
@@ -14,11 +14,11 @@ Vitajte v tretiom týždni nášho kurzu o základoch web developmentu a HTML! T
 
 ## Prečo sa toto učiť?
 
-Naučenie sa manipulovať s textom v HTML je kľúčovým krokom v tvorbe webových stránok. Text je základným prvkom každej webovej stránky, a preto je dôležité vedieť, ako ho efektívne vytvárať a upravovať. Po zvládnutí týchto lekcií budete schopní vytvoriť atraktívnu a dobre štruktúrovanú webovú stránku.
+Naučiť sa manipulovať s textom v HTML je kľúčovým krokom v tvorbe webových stránok. Text je základným prvkom každej webovej stránky, a preto je dôležité vedieť, ako ho efektívne vytvárať a upravovať. Po zvládnutí týchto lekcií budete schopní vytvoriť atraktívnu a dobre štruktúrovanú webovú stránku.
 
 ## Ako uplatniť nadobudnuté vedomosti v praxi
 
-Cieľom týchto lekcií je naučiť vás, ako efektívne vytvárať a upravovať text v HTML. V praxi budete tieto vedomosti uplatňovať pri tvorbe a úprave textu na vašich stránkach, používaní rôznych typov nadpisov a odsekov, aplikácií rôznych štýlov a formátov textu a využívaní HTML komentárov pre lepšiu organizáciu a čitateľnosť kódu.
+Cieľom týchto lekcií je naučiť vás, ako efektívne vytvárať a upravovať text v HTML. V praxi budete tieto vedomosti uplatňovať pri tvorbe a úprave textu na vašich stránkach, používaní rôznych typov nadpisov a odsekov, pri aplikovaní rôznych štýlov a formátov textu a využívaní HTML komentárov pre lepšiu organizáciu a čitateľnosť kódu.
 
 ## Praktické príklady
 

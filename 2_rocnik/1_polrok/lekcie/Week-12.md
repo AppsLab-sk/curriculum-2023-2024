@@ -2,12 +2,13 @@
 
 ## Úvod
 
-Vitajte v dvanástom týždni nášho kurzu o základoch web developmentu a CSS! Tento týždeň sa zameriame na grafiku v HTML a CSS Grid. Pozrieme sa na to, ako vytvárať a manipulovať s grafickými prvkami priamo v HTML kóde pomocou technológií Canvas a SVG. Potom prejdeme na CSS Grid, mocný nástroj pre vytváranie komplexných, responzívnych rozložení na webových stránkach.
+Vitajte v dvanástom týždni nášho kurzu o základoch web developmentu a CSS! Tento týždeň sa zameriame na grafiku v HTML a CSS Grid. Pozrieme sa na to, ako vytvárať grafické prvky a manipulovať s nimi priamo v HTML kóde pomocou technológií Canvas a SVG. Potom prejdeme na CSS Grid, výkonný nástroj na vytváranie komplexných, responzívnych rozložení obsahu na webových stránkach.
 
 ## Lekcie
 
 - [HTML Canvas](https://www.w3schools.com/html/html5_canvas.asp)
 - [HTML SVG](https://www.w3schools.com/html/html5_svg.asp)
+- [SVG Tutorial](https://www.w3schools.com/graphics/svg_intro.asp)
 - [CSS Grid Layout Module](https://www.w3schools.com/css/css_grid.asp)
 - [CSS Grid Container](https://www.w3schools.com/css/css_grid_container.asp)
 - [CSS Grid Item](https://www.w3schools.com/css/css_grid_item.asp)

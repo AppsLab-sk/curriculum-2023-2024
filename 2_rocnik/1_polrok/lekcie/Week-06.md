@@ -1,8 +1,8 @@
-# 6. týždeň: Práca s HTML tabuľkami, zoznamami a CSS štýlovaním tabuliek
+# 6. týždeň: Práca s tabuľkami a zoznamami v HTML a CSS štýlovaním tabuliek a zoznamov
 
 ## Úvod
 
-Vitajte v šiestom týždni nášho kurzu o základoch web developmentu a HTML! Tento týždeň sa zameriame na prácu s HTML tabuľkami a zoznamami a ako ich štylizovať pomocou CSS. Tieto zručnosti sú nevyhnutné pre organizáciu a prezentáciu informácií na webových stránkach.
+Vitajte v šiestom týždni nášho kurzu o základoch web developmentu a HTML! Tento týždeň sa zameriame na prácu s HTML tabuľkami a zoznamami a ako ich štýlovať pomocou CSS. Tieto zručnosti sú nevyhnutné pre organizáciu a prezentáciu informácií na webových stránkach.
 
 ## Lekcie
 
@@ -25,17 +25,17 @@ Vitajte v šiestom týždni nášho kurzu o základoch web developmentu a HTML! 
 
 ## Prečo sa toto učiť?
 
-Tabuľky a zoznamy sú kľúčové prvky štruktúry webových stránok a sú nevyhnutné pre prezentáciu a organizáciu informácií. Naučenie sa ich vytvárať a štylizovať vám poskytne silný základ pre budovanie komplexnejších a užívateľsky príjemných webových stránok.
+Tabuľky a zoznamy sú veľmi časté prvky štruktúry webových stránok a sú nevyhnutné pre prezentáciu a organizáciu informácií. Naučenie sa ich vytvárať a formátovať vám poskytne silný základ pre budovanie komplexnejších a užívateľsky príjemných webových stránok.
 
 ## Ako uplatniť nadobudnuté vedomosti v praxi
 
-Po absolvovaní týchto lekcií budete schopní vytvárať a štylizovať HTML tabuľky a zoznamy pomocou CSS. Prakticky aplikujte získané vedomosti tým, že vytvoríte a štylizujete HTML tabuľky a zoznamy. Skúmajte rôzne možnosti pre jednotlivé aspekty práce s HTML tabuľkami a zoznamami, vrátane vytvárania responzívnych tabuliek pomocou CSS, práce s rôznymi veľkosťami a štýlmi tabuliek, experimentovania s rôznymi typmi zoznamov a ich štylizovania pomocou CSS.
+Po absolvovaní týchto lekcií budete schopní vytvárať a štýlovať HTML tabuľky a zoznamy pomocou CSS. Prakticky aplikujte získané vedomosti tým, že vytvoríte a naformátujete HTML tabuľky a zoznamy. Skúmajte rôzne možnosti pre jednotlivé aspekty práce s HTML tabuľkami a zoznamami, vrátane vytvárania responzívnych tabuliek pomocou CSS, práce s rôznymi veľkosťami a štýlmi tabuliek, experimentovania s rôznymi typmi zoznamov a ich formátovania pomocou CSS.
 
 ## Praktické príklady
 
 1. Vytvorte HTML stránku, ktorá obsahuje tabuľku s rôznymi stĺpcami a riadkami, vrátane hlavičky tabuľky a rôznych typov dát.
 2. Vytvorte CSS štýl pre tabuľku, ktorý upraví hranice, padding, veľkosť a iné aspekty tabuľky.
-3. Vytvorte HTML stránku, ktorá obsahuje rôzne typy zoznamov, vrátane usporiadaných a neusporiadaných zoznamov.
+3. Vytvorte HTML stránku, ktorá obsahuje rôzne typy zoznamov, vrátane usporiadaných (zoradených) a neusporiadaných (nezoradených) zoznamov.
 4. Vytvorte CSS štýl pre zoznamy, ktorý upraví ich vzhľad, vrátane farby a typu odrážok.
 5. Experimentujte s vytváraním responzívnych tabuliek pomocou CSS, ktoré sa prispôsobia rôznym veľkostiam obrazovky.
 

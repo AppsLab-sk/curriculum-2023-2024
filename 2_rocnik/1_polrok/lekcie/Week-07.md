@@ -23,7 +23,7 @@ Vitajte v siedmom týždni nášho kurzu o základoch web developmentu a HTML! T
 
 ## Prečo sa toto učiť?
 
-Formuláre sú neoddeliteľnou súčasťou väčšiny webových stránok, či už ide o prihlasovacie formuláre, kontaktné formuláre alebo vyhľadávacie polia. Naučenie sa, ako ich vytvoriť a prispôsobiť ich potrebám vášho webu, je kľúčové. Rovnako dôležité je pochopiť, ako v CSS pracovať s písmami, pretože správne zvolené písmo môže výrazne ovplyvniť celkový vzhľad a čitateľnosť stránky.
+Formuláre sú neoddeliteľnou súčasťou väčšiny webových stránok, či už ide o prihlasovacie formuláre, kontaktné formuláre alebo vyhľadávacie polia. Naučiť sa, ako ich vytvoriť a prispôsobiť ich potrebám vášho webu, je kľúčové. Rovnako dôležité je pochopiť, ako v CSS pracovať s písmami a ich vlastnosťami, pretože správne zvolené písmo môže výrazne ovplyvniť celkový vzhľad a čitateľnosť stránky.
 
 ## Ako uplatniť nadobudnuté vedomosti v praxi
 
