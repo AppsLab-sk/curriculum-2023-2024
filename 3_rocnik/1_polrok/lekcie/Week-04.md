@@ -17,19 +17,19 @@ V tejto lekcii sa zameriame na komunikáciu medzi front-endom a back-endom naše
 
 **Front-end (Angular):** Použitie HttpClient na vykonávanie požiadaviek. Vytvorenie vhodných Angular služieb. Použitie async pipe na odber Observable v HTML šablóne.
 
-**Back-end (ASP.NET Core):** Vytvorenie API endpointov pre načítanie a pridanie hrdinov.
+**Back-end (ASP.NET Core):** Vytvorenie API endpointov pre načítanie a pridanie hrdinov. Pridanie FE adresy do CORS.
 
 ### Google Search
 
 **Front-end (Angular):** "Angular HttpClient", "Creating services in Angular", "Angular async pipe"
 
-**Back-end (ASP.NET Core):** "Creating API in ASP.NET Core"
+**Back-end (ASP.NET Core):** "Creating API in ASP.NET Core", "Enable Cross-Origin Requests (CORS) in ASP.NET Core"
 
 ### ChatGPT
 
 **Front-end (Angular):** "How to use HttpClient in Angular?", "How to create a service in Angular?", "How to use async pipe in Angular?"
 
-**Back-end (ASP.NET Core):** "How to create an API in ASP.NET Core?"
+**Back-end (ASP.NET Core):** "How to create an API in ASP.NET Core?", "How to enable CORS in ASP.NET Core app?"
 
 ## 3. Cvičenie
 
@@ -37,7 +37,7 @@ V tejto lekcii sa zameriame na komunikáciu medzi front-endom a back-endom naše
 
 **Front-end (Angular):** Načítajte zoznam hrdinov z back-endu a pošlite nového hrdinu na back-end pomocou HttpClient. Vytvorte vhodné Angular služby. Využite async pipe na odber Observable z šablóny.
 
-**Back-end (ASP.NET Core):** Vytvorte API endpointy pre načítanie a pridanie hrdinov.
+**Back-end (ASP.NET Core):** Vytvorte API endpointy pre načítanie a pridanie hrdinov. Upravte konfiguráciu aplikácie tak aby bola schopná prijímať requesty z FE aplikácie.
 
 ### Očakávané výsledky
 
