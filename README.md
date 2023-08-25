@@ -10,7 +10,7 @@ Učebné materiály pre Open Lab Mastrov rozdelené podľa tried (ročníkov).
 
 | Ročník | 1. polrok | 2. polrok |
 | --- | --- | --- |
-| 1. ročník | [Link](/1_rocnik/1_polrok/Ucebny_plan.md) | [Link](/1_rocnik/2_polrok/Ucebny_plan.md) |
-| 2. ročník | [Link](/2_rocnik/1_polrok/Ucebny_plan.md) | [Link](/2_rocnik/2_polrok/Ucebny_plan.md) |
-| 3. ročník | [Link](/3_rocnik/1_polrok/Ucebny_plan.md) | [Link](/3_rocnik/2_polrok/Ucebny_plan.md) |
-| 4. ročník | [Link](/4_rocnik/1_polrok/Ucebny_plan.md) | [Link](/4_rocnik/2_polrok/Ucebny_plan.md) |
+| 1. ročník | [Link](/curriculum-2023-2024/1_rocnik/1_polrok/Ucebny_plan.md) | [Link](/curriculum-2023-2024/1_rocnik/2_polrok/Ucebny_plan.md) |
+| 2. ročník | [Link](/curriculum-2023-2024/2_rocnik/1_polrok/Ucebny_plan.md) | [Link](/curriculum-2023-2024/2_rocnik/2_polrok/Ucebny_plan.md) |
+| 3. ročník | [Link](/curriculum-2023-2024/3_rocnik/Questoverflow.md) | [Link](/curriculum-2023-2024/3_rocnik/2_polrok/Ucebny_plan.md) |
+| 4. ročník | [Link](/curriculum-2023-2024/4_rocnik/1_polrok/Ucebny_plan.md) | [Link](/curriculum-2023-2024/4_rocnik/2_polrok/Ucebny_plan.md) |
