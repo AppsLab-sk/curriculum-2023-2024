@@ -2,7 +2,7 @@
 
 ## Úvod
 
-Vitajte v štrnástom týždni nášho kurzu o základoch web developmentu a CSS! Tento týždeň sa pohlbíme do pokročilých techník a vlastností CSS, ktoré vám umožnia vytvárať sofistikovanejšie a dynamické webové stránky.
+Vitajte v štrnástom týždni nášho kurzu o základoch web developmentu a CSS! Tento týždeň sa zameriame na pokročilé techniky a vlastnosti CSS, ktoré vám umožnia vytvárať sofistikovanejšie a dynamické webové stránky.
 
 ## Lekcie
 
@@ -47,7 +47,7 @@ Vitajte v štrnástom týždni nášho kurzu o základoch web developmentu a CSS
 
 ## Prečo sa toto učiť?
 
-CSS je silný nástroj pre vytváranie a štylizáciu webových stránok. Pokročilé funkcie a techniky CSS umožňujú vytvárať sofistikovanejšie dizajny a poskytujú väčšiu flexibilitu a kontrolu nad tým, ako vyzerajú a fungujú vaše webové stránky. Či už ide o vytváranie animácií, prispôsobovanie vzhľadu textu a obrázkov, alebo vytváranie responzívnych rozložení, tieto pokročilé CSS techniky vám umožnia vytvárať profesionálne a príjemné pre užívateľa webové stránky.
+CSS je silný nástroj pre vytváranie a štylizáciu webových stránok. Pokročilé funkcie a techniky CSS umožňujú vytvárať zaujímavejší dizajn stránok a poskytujú väčšiu flexibilitu a kontrolu nad tým, ako vyzerajú a fungujú vaše webové stránky. Či už ide o vytváranie animácií, prispôsobovanie vzhľadu textu a obrázkov, alebo vytváranie responzívnych rozložení. Tieto pokročilé CSS techniky vám umožnia vytvárať profesionálne a príjemné pre užívateľa webové stránky.
 
 ## Ako uplatniť nadobudnuté vedomosti v praxi
 

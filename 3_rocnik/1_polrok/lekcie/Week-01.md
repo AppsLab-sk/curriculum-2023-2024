@@ -109,7 +109,7 @@ npm install -g @angular/cli
 2.2. Po inštalácii môžeme overiť verziu Angular CLI zadaním príkazu:
 
 ``` cmd
-ng --version
+ng version
 ```
 
 Ak vidíte informácie o verzii Angular CLI, inštalácia prebehla úspešne.
@@ -161,6 +161,8 @@ Prvým krokom je inštalácia .NET SDK (Software Development Kit), ktorý obsahu
 2.3. Ak chcete vytvoriť nový ASP.NET Core projekt, použite príkaz `dotnet new`. Na vytvorenie webovej API aplikácie použite príkaz `dotnet new webapi -n MyApi`, kde `MyApi` je názov vášho projektu. Tento príkaz vytvorí nový ASP.NET Core Web API projekt s názvom "MyApi".
 
 ### **Kombinácia:**
+
+_Upozornenie: Takto vytvorený projekt obsahuje viacero predpripravených súborov s obsahom, ktorému porozumieme v ďalšom priebehu kurzu._
 
 1. **Spustenie Visual Studio 2022:** Začnite kliknutím na tlačidlo "Start" vo Visual Studio 2022 alebo cez príkazový riadok s príkazom `devenv`.
 
