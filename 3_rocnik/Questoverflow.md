@@ -192,10 +192,10 @@ As a Product Owner, the following features are key to our application, QuestOver
 ### Sprint 3: Profile Management
 
 - Feature: Profile Management
-  - As a registered user, I want to be able to navigate to my profile page, so that I can view and manage my profile information.
-  - As a registered user, I want to be able to edit my personal information such as name, email, etc., so that my profile reflects my up-to-date information.
-  - (Optional) As a registered user, I want to see my current level displayed on my profile, so that I am aware of my progress.
-  - (Optional) As a registered user, I want to see which guild I am part of on my profile, so that others know which group I'm associated with.
+  - [As a registered user, I want to be able to navigate to my profile page, so that I can view and manage my profile information.](1_polrok/user_stories/Navigate%20to%20Profile%20Page%20for%20Managing%20User%20Information.md)
+  - [As a registered user, I want to be able to edit my personal information such as name, email, etc., so that my profile reflects my up-to-date information.](1_polrok/user_stories/Edit%20Personal%20Information%20in%20User%20Profile.md)
+  - (Optional) [As a registered user, I want to see my current level displayed on my profile, so that I am aware of my progress.](1_polrok/user_stories/Display%20Current%20Level%20on%20User%20Profile.md)
+  - (Optional) [As a registered user, I want to see which guild I am part of on my profile, so that others know which group I'm associated with.](1_polrok/user_stories/Display%20Guild%20Affiliation%20on%20User%20Profile.md)
 
 ### Sprint 4: Profile Management (Part 2)
 
