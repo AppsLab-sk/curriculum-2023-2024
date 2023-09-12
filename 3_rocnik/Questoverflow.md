@@ -200,10 +200,10 @@ As a Product Owner, the following features are key to our application, QuestOver
 ### Sprint 4: Profile Management (Part 2)
 
 - Feature: Profile Management
-  - As a registered user, I want the option to leave my current guild through my profile, so that I can join a new one if I wish.
-  - As a registered user, I want to view a list of all quests I have posted or solved, so that I can keep track of my contributions and solutions.
-  - As a registered user, I want to be able to directly access a quest from my quest history in my profile, so that I can review or revisit it.
-  - As a registered user, I want to see my total accumulated reward points on my profile, so that I know how close I am to leveling up.
+  - [As a registered user, I want the option to leave my current guild through my profile, so that I can join a new one if I wish.](1_polrok/user_stories/Guild%20Departure%20Option%20in%20User%20Profile.md)
+  - [As a registered user, I want to view a list of all quests I have posted or solved, so that I can keep track of my contributions and solutions.](1_polrok/user_stories/View%20Posted%20and%20Solved%20Quests.md)
+  - [As a registered user, I want to be able to directly access a quest from my quest history in my profile, so that I can review or revisit it.](1_polrok/user_stories/Direct%20Access%20to%20Quests%20from%20Profile%20History.md)
+  - [As a registered user, I want to see my total accumulated reward points on my profile, so that I know how close I am to leveling up.](1_polrok/user_stories/Display%20Total%20Accumulated%20Reward%20Points%20on%20User%20Profile.md)
 
 ### Sprint 5: Quest Posting
 
