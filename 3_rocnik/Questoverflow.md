@@ -85,12 +85,20 @@ As a Product Owner, the following features are key to our application, QuestOver
 
 - As a registered user, I want to be able to navigate to my profile page, so that I can view and manage my profile information.
 - As a registered user, I want to be able to edit my personal information such as name, email, etc., so that my profile reflects my up-to-date information.
-- As a registered user, I want to see my current level displayed on my profile, so that I am aware of my progress.
-- As a registered user, I want to see which guild I am part of on my profile, so that others know which group I'm associated with.
-- As a registered user, I want the option to leave my current guild through my profile, so that I can join a new one if I wish.
-- As a registered user, I want to view a list of all quests I have posted or solved, so that I can keep track of my contributions and solutions.
-- As a registered user, I want to be able to directly access a quest from my quest history in my profile, so that I can review or revisit it.
-- As a registered user, I want to see my total accumulated reward points on my profile, so that I know how close I am to leveling up.
+
+
+### Feature: Dashboard
+
+- As a user, I want to log in to the system so that I can access my personalized dashboard on my home page.
+- As a user, I want to see my total accumulated reward points prominently displayed on my dashboard so that I can keep track of my progress.
+- As a user, I want to see my current level on the dashboard so that I know my standing in the gamified system.
+- As a user, I want to see a list of my active quests on the dashboard so that I can easily access and manage them.
+- As a user, I want to see a list of my completed quests on the dashboard so that I can track my achievements.
+- As a user, I want to be able to directly access a quest from my quest history in my profile, so that I can review or revisit it.
+- As a user, I want to see the recent activities of my guild on the dashboard so that I can stay updated with my guild’s progress.
+- As a user, I want to see my guild's name and the guild members on my dashboard so that I can quickly access my guild's details.
+- As a user, I want to see which guild I am part of on my profile, so that others know which group I'm associated with.
+- As a user, I want the option to leave my current guild through my profile, so that I can join a new one if I wish.
 
 ### Feature: Quest Posting
 
@@ -145,16 +153,6 @@ As a Product Owner, the following features are key to our application, QuestOver
 - As a user, after I enter the guild hash code and am not a member of any other guild, I want to receive a confirmation of my request, so that I am aware that my joining process is successful.
 - As a user, after I successfully join a new guild, I want to be redirected to my new guild's board, so that I can start participating in the guild activities immediately.
 
-### Feature: Dashboard (BONUS)
-
-- As a user, I want to log in to the system so that I can access my personalized dashboard on my home page.
-- As a user, I want to see my total accumulated reward points prominently displayed on my dashboard so that I can keep track of my progress.
-- As a user, I want to see my current level on the dashboard so that I know my standing in the gamified system.
-- As a user, I want to see a list of my active quests on the dashboard so that I can easily access and manage them.
-- As a user, I want to see a list of my completed quests on the dashboard so that I can track my achievements.
-- As a user, I want to see the recent activities of my guild on the dashboard so that I can stay updated with my guild’s progress.
-- As a user, I want to see my guild's name and the guild members on my dashboard so that I can quickly access my guild's details.
-
 ### Guild Leaderboard and Competition (BONUS)
 
 - As a new guild member, I want to be able to contribute reward points to my guild so that our guild can climb the leaderboard.
@@ -194,8 +192,8 @@ As a Product Owner, the following features are key to our application, QuestOver
 - Feature: Profile Management
   - [As a registered user, I want to be able to navigate to my profile page, so that I can view and manage my profile information.](1_polrok/user_stories/Navigate%20to%20Profile%20Page%20for%20Managing%20User%20Information.md)
   - [As a registered user, I want to be able to edit my personal information such as name, email, etc., so that my profile reflects my up-to-date information.](1_polrok/user_stories/Edit%20Personal%20Information%20in%20User%20Profile.md)
-  - (Optional) [As a registered user, I want to see my current level displayed on my profile, so that I am aware of my progress.](1_polrok/user_stories/Display%20Current%20Level%20on%20User%20Profile.md)
-  - (Optional) [As a registered user, I want to see which guild I am part of on my profile, so that others know which group I'm associated with.](1_polrok/user_stories/Display%20Guild%20Affiliation%20on%20User%20Profile.md)
+  - [As a registered user, I want to see my current level displayed on my dashboard, so that I am aware of my progress.](1_polrok/user_stories/Display%20Current%20Level%20on%20User%20Profile.md)
+  - [As a registered user, I want to see which guild I am part of on my dashboard, so that others know which group I'm associated with.](1_polrok/user_stories/Display%20Guild%20Affiliation%20on%20User%20Profile.md)
 
 ### Sprint 4: Profile Management (Part 2)
 
