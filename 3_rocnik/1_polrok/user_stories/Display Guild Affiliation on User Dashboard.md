@@ -1,18 +1,18 @@
-# User Story: Display Guild Affiliation on User Profile
+# User Story: Display Guild Affiliation on User Dashboard
 
 ## Description
 
-The purpose of this user story is to enhance the user profile by displaying guild membership status. Registered users should be able to see which guild they are a part of, making it easy for other users to identify their group affiliations.
+The purpose of this user story is to enhance the user dashboard by displaying guild membership status. Registered users should be able to see which guild they are a part of, making it easy for other users to identify their group affiliations.
 
 ## Technical Perspective
 
-From a technical standpoint, this involves updating the User model to include a field for `GuildId`. You'll need to extend the User API to populate this field during user fetch operations and adapt the Angular component responsible for displaying the user profile to include this new piece of information.
+From a technical standpoint, this involves updating the User model to include a field for `GuildId` or `GuildName`. You'll need to extend the User API to populate this field during user fetch operations and adapt the Angular component responsible for displaying the user profile to include this new piece of information.
 
 The backend could be implemented using ASP.NET Core, and you may leverage Entity Framework Core for handling the database interaction. For the frontend, Angular will be employed to display the guild information seamlessly within the profile UI.
 
 ## User Perspective
 
-End-users will find their profile section now displays their guild affiliation. This is crucial for guild-based operations and adds another layer of social interaction and identity to the platform. Users would expect this piece of information to be accurate and updated in real-time, reflecting any changes like joining a new guild or leaving one.
+End-users will find their dashboard section now displays their guild affiliation. This is crucial for guild-based operations and adds another layer of social interaction and identity to the platform. Users would expect this piece of information to be accurate and updated in real-time, reflecting any changes like joining a new guild or leaving one.
 
 ## Acceptance Criteria
 
