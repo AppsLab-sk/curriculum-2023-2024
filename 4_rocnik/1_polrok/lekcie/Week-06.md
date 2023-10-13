@@ -4,14 +4,15 @@
 
 ### Prehľad lekcie
 
-Tento týždeň sa zameriavame na prácu so súbormi v Pythone. Naučíme sa, ako otvárať, čítať, písať a mazať súbory pomocou funkcií a metód jazyka Python.
-
+Tento týždeň sa zameriavame na prácu so súbormi v Pythone. Naučíme sa, ako otvárať, čítať, písať a mazať súbory pomocou funkcií a metód jazyka Python. Predstavenie si základnych metód spracovania informacií. Porozumenie správy pamätí a hlbšie predstavenie funkčnosti interpretera python-u zhladiska spracovania a ukladania informacií.
 ### Cieľ lekcie
 
+- Porozumenie základnych metód spracovania dát
 - Naučiť sa, ako otvárať súbory v Pythone
 - Pochopiť, ako čítať dáta zo súborov
 - Naučiť sa, ako zapisovať dáta do súborov
 - Naučiť sa, ako mazať súbory
+
 
 ## 2. Teória
 
@@ -19,7 +20,9 @@ Tento týždeň sa zameriavame na prácu so súbormi v Pythone. Naučíme sa, ak
 - Na čítanie súborov v Pythone môžeme použiť metódu `open()`: [Python Read Files](https://www.w3schools.com/python/python_file_open.asp)
 - Zápis do súborov môžeme realizovať metódou `write()`: [Python Write/Create Files](https://www.w3schools.com/python/python_file_write.asp)
 - Na odstránenie súborov slúži metóda `os.remove()`: [Python Delete Files](https://www.w3schools.com/python/python_file_remove.asp)
-
+- Rozdelenie pamätí a ich obmedzenia pre spracovanie a ukladanie dát.
+- Model a správa pamätí.
+  
 ### Google Search
 
 - "Python file handling tutorial"
@@ -41,6 +44,7 @@ V tomto cvičení sa naučíme čítať a zapisovať dáta do textových súboro
 - Otvorte súbor a prečítajte jeho obsah
 - Zmente niektoré údaje a zapíšte ich späť do súboru
 - Odstráňte súbor po skončení práce s ním
+- Spracovanie súborov na pamätí RAM vs ROM, ich obmedzenia, správa, alokácia a úvod do optimalizácie ukladania dát.
 
 ### Očakávané výsledky
 
