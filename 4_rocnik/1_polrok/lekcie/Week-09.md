@@ -9,6 +9,7 @@ V tejto lekcii sa oboznámite s konceptmi dátových vied. Taktiež sa naučíte
 ### Cieľ lekcie
 
 - Oboznámiť sa s konceptmi dátových vied
+- Naučiť sa technologické, ale aj ekonomické aspekty spracovania informácií a ukladania dát z pohladu dátovej vedy.
 - Naučiť sa základy práce s knižnicou pandas
 
 ## 2. Teória
