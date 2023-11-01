@@ -338,5 +338,6 @@ premenná obsahuje aj náhodný šum, aby bola situácia reálnejšia.
 6. Vytvoríme nové hodnoty pre nezávislú premennú (X_nove), pre ktoré chceme predpovedať
 hodnoty Y (Y_predikcia) pomocou modelu.
 7. Vizualizujeme regresný model (červená čiara) spolu so skutočnými dátami (modré body).
+
 Model lineárnej regresie vytvoril lineárnu funkciu, ktorá sa čo najlepšie prispôsobila skutočným
 dátam. Táto funkcia umožňuje predpovedať hodnoty Y pre zadané hodnoty X.
