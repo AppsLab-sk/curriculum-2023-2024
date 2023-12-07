@@ -12,10 +12,22 @@ V tejto lekcii sa budeme venovať pokročilejším technikám vizualizácie dát
 - Naučiť sa vytvárať rôzne typy grafov a diagramov pomocou knižnice Matplotlib.
 
 ## 2. Teória
-
+Zhrnutie:
 - Matplotlib je knižnica Pythonu, ktorá sa používa na vizualizáciu dát.
 - Matplotlib obsahuje funkcie pre vytváranie rôznych typov grafov a diagramov, ako sú [Markers](https://www.w3schools.com/python/matplotlib_markers.asp), [Line](https://www.w3schools.com/python/matplotlib_line.asp), [Labels](https://www.w3schools.com/python/matplotlib_labels.asp), [Grid](https://www.w3schools.com/python/matplotlib_grid.asp), [Subplot](https://www.w3schools.com/python/matplotlib_subplot.asp), [Scatter](https://www.w3schools.com/python/matplotlib_scatter.asp), [Bars](https://www.w3schools.com/python/matplotlib_bars.asp), [Histograms](https://www.w3schools.com/python/matplotlib_histograms.asp), a [Pie Charts](https://www.w3schools.com/python/matplotlib_pie_charts.asp).
-
+Detail:
+- Colorbar, Textové elementy 1 - Dielce a pomenovanie osí
+  Pomocou farby môžete v plotoch zobrazovať jednu z dimenzií vašich dát.
+  Aby bola paleta farby takéhoto zobrazenia prehľadná, colorbar poskytuje informácii o tom, aké hodnoty farba reprezentuje.​
+  Osi môžete pomenovať, zobrazovať na nich rôzne stupnice, či dokonca text. Pomenovať a odsadit môžete aj plotovacie objekty.
+- Textové elementy 2 - Text v grafe, annotácie a legendy
+  Legendy, textové označenie elementov v grafe a anotácie pomáhajú poukázať na dôležité časti grafu.
+  Vysvetľujú, čo jednotlivé elementy znamenajú a na ktoré by sa mala zamerať pozornosť pri grafickej prezentácií dát.
+- Vizualizácia dát pomocou knižnice Seaborn
+  Zatiaľ čo matplotlib je ideálny pre prácu s dátami, Seaborn poskytuje veľmi praktické rozhranie na vizualizáciu dát vo forma Pandas DataFramov.
+  Umožňuje ľahko prezentovať dáta s prívetivými paletami a štýlmi hneď po inštalácii.
+- Interaktívne grafy s Plotly
+  V tomto videu sa zoznámite s knižnicou Plotly - moderným nástrojom pre interaktívnu vizualizáciu dát v Pythone.
 ### Google Search
 
 - "Advanced data visualization techniques"
