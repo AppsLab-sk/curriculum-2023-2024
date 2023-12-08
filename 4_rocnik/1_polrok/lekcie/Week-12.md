@@ -13,10 +13,21 @@ V tejto lekcii sa študenti naučia základy vizualizácie dát pomocou populár
 - Vizualizovať dáta z dátových rámcov.
 
 ## 2. Teória
-
+Zhrnutie:
 - Knižnica matplotlib: Výkonná knižnica v jazyku Python pre vizualizáciu dát. [Oficiálna dokumentácia](https://matplotlib.org/)
 - Používanie matplotlib: Základné príkazy a funkcie, ako je `plot()`, `show()`, atď. [Začíname s Matplotlib](https://www.w3schools.com/python/matplotlib_getting_started.asp)
 - Pyplot: Modul v knižnici matplotlib, ktorý poskytuje funkcie na ovládanie štýlov a vlastností grafov. [Pyplot](https://www.w3schools.com/python/matplotlib_pyplot.asp)
+Detial:
+- Vizualizácia Pandas objektov
+ grafické vlastnosti objektov. Série aj DataFramy používajú grafický wrapper, ktorý umožňuje rýchlo a prakticky vytvárať ich grafy. Je to veľmi užitočná vlastnosť objektov, keď potrebujeme rýchlo zobraziť dáta pre ich 
+ preskúmanie.
+- Úvod do Matplotlibu, imperatívne a objektové rozhranie
+Matplotlib je vyzrelá a odskúšaná knižnica pre zobrazovanie dát. Obsahuje dve rozhrania. Jedno imperatívne, pre rýchlu inšpekciu dátových štruktúr. Druhé je objektové, užitočné pre konštrukciu komplexných grafov a programov.
+- Základné typy grafov v Matplotlibe , Štýlovanie a limity grafov
+Matplotlib obsahuje mnohé spôsoby štýlovania jednotlivých elementov grafov. Zmeniť farby a iné vlastnosti elementov je veľmi jednoduché. Je taktiež možné použiť jednodtné štýlovanie grafov Jupyter Notebooku.
+- Subploty a vizualizácia viacerých grafov v jednom objekte
+Jeden figure objekt môže obsahovať viacero grafov v axis objektoch. Táto hierarchia objektov Matplotlibu umožňuje zobrazovať viacero rôznych objektov naraz. V tomto videu si ukážeme, ako na to.
+
 
 ### Google Search
 
