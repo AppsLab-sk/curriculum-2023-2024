@@ -17,6 +17,7 @@ Zhrnutie:
 - Knižnica matplotlib: Výkonná knižnica v jazyku Python pre vizualizáciu dát. [Oficiálna dokumentácia](https://matplotlib.org/)
 - Používanie matplotlib: Základné príkazy a funkcie, ako je `plot()`, `show()`, atď. [Začíname s Matplotlib](https://www.w3schools.com/python/matplotlib_getting_started.asp)
 - Pyplot: Modul v knižnici matplotlib, ktorý poskytuje funkcie na ovládanie štýlov a vlastností grafov. [Pyplot](https://www.w3schools.com/python/matplotlib_pyplot.asp)
+  
 Detial:
 - Vizualizácia Pandas objektov
  grafické vlastnosti objektov. Série aj DataFramy používajú grafický wrapper, ktorý umožňuje rýchlo a prakticky vytvárať ich grafy. Je to veľmi užitočná vlastnosť objektov, keď potrebujeme rýchlo zobraziť dáta pre ich 
