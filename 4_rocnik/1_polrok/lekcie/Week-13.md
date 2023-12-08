@@ -15,6 +15,7 @@ V tejto lekcii sa budeme venovať pokročilejším technikám vizualizácie dát
 Zhrnutie:
 - Matplotlib je knižnica Pythonu, ktorá sa používa na vizualizáciu dát.
 - Matplotlib obsahuje funkcie pre vytváranie rôznych typov grafov a diagramov, ako sú [Markers](https://www.w3schools.com/python/matplotlib_markers.asp), [Line](https://www.w3schools.com/python/matplotlib_line.asp), [Labels](https://www.w3schools.com/python/matplotlib_labels.asp), [Grid](https://www.w3schools.com/python/matplotlib_grid.asp), [Subplot](https://www.w3schools.com/python/matplotlib_subplot.asp), [Scatter](https://www.w3schools.com/python/matplotlib_scatter.asp), [Bars](https://www.w3schools.com/python/matplotlib_bars.asp), [Histograms](https://www.w3schools.com/python/matplotlib_histograms.asp), a [Pie Charts](https://www.w3schools.com/python/matplotlib_pie_charts.asp).
+  
 Detail:
 - Colorbar, Textové elementy 1 - Dielce a pomenovanie osí
   Pomocou farby môžete v plotoch zobrazovať jednu z dimenzií vašich dát.
